@@ -1,0 +1,1001 @@
+Crime_ID,Date,Time,Crime_Type,Location,Latitude,Longitude,Day_of_Week,Weather_Condition,Temperature,Offender_Age,Offender_Gender,Victim_Age,Victim_Gender,Crime_Outcome
+1,14-09-2023,04:16,Burglary,Park,35.417278,-75.61285,Thursday,Foggy,2.1,43,Female,67,Male,Under Investigation
+2,04-03-2023,03:59,Fraud,Suburb,39.978176,-75.12703,Saturday,Cloudy,-1.3,53,Female,18,Female,Arrested
+3,05-03-2022,06:05,Burglary,Highway,37.510663,-91.473535,Saturday,Snowy,11.2,47,Male,25,Female,Unsolved
+4,09-08-2022,08:26,Robbery,Industrial Zone,39.688416,-114.435873,Tuesday,Snowy,10,33,Female,48,Male,Unsolved
+5,01-01-2023,08:22,Theft,Park,36.138684,-75.326684,Sunday,Cloudy,34.4,37,Male,73,Male,Unsolved
+6,01-11-2022,08:45,Vandalism,Highway,35.717898,-87.875405,Tuesday,Foggy,13.1,34,Female,62,Male,Arrested
+7,04-07-2023,20:42,Drug Offense,Mall,39.678498,-111.636153,Tuesday,Cloudy,14.3,38,Female,32,Female,Under Investigation
+8,19-02-2023,02:12,Homicide,Highway,34.869668,-93.101948,Sunday,Foggy,18,51,Male,50,Female,Arrested
+9,29-08-2022,12:17,Theft,Industrial Zone,35.355441,-89.606121,Monday,Clear,14.1,18,Male,34,Female,Unsolved
+10,25-07-2022,06:08,Drug Offense,Downtown,38.739544,-108.40432,Monday,Cloudy,19.1,20,Male,15,Female,Unsolved
+11,11-08-2022,12:58,Fraud,Industrial Zone,35.879758,-92.415716,Thursday,Clear,-4,54,Female,40,Female,Arrested
+12,31-01-2023,07:14,Robbery,Highway,37.017062,-91.380298,Tuesday,Clear,23.6,60,Female,36,Female,Under Investigation
+13,30-06-2022,17:19,Assault,Industrial Zone,36.4354,-81.960573,Thursday,Foggy,9.3,24,Male,55,Female,Arrested
+14,24-03-2022,08:23,Assault,Suburb,38.796023,-117.904082,Thursday,Cloudy,13.3,42,Male,29,Male,Unsolved
+15,25-09-2022,06:45,Theft,Mall,37.080233,-101.406391,Sunday,Rainy,14.9,27,Male,17,Male,Under Investigation
+16,17-03-2022,08:08,Homicide,Downtown,37.705034,-111.762943,Thursday,Cloudy,24.4,49,Female,75,Female,Arrested
+17,16-05-2023,01:36,Burglary,Mall,34.431091,-117.789056,Tuesday,Cloudy,3.5,59,Male,16,Female,Arrested
+18,18-10-2022,10:13,Vandalism,Suburb,39.19625,-115.179161,Tuesday,Clear,27.4,17,Male,40,Male,Unsolved
+19,28-08-2023,07:23,Assault,Highway,36.095763,-79.842396,Monday,Rainy,3,32,Male,31,Female,Arrested
+20,13-10-2022,07:54,Assault,Mall,37.245184,-76.353299,Thursday,Clear,29.6,47,Male,29,Male,Under Investigation
+21,18-07-2022,11:27,Homicide,Suburb,38.680662,-96.965998,Monday,Clear,15.5,42,Male,70,Female,Arrested
+22,14-07-2022,08:19,Burglary,Park,37.035676,-107.763382,Thursday,Rainy,12.9,54,Male,46,Male,Unsolved
+23,10-12-2022,12:26,Homicide,Park,36.452405,-117.339264,Saturday,Cloudy,-2.9,29,Male,17,Female,Arrested
+24,01-11-2023,07:49,Fraud,Residential Area,36.781699,-88.481377,Wednesday,Cloudy,23.3,56,Female,32,Female,Under Investigation
+25,23-11-2022,12:40,Assault,Mall,38.734099,-103.834662,Wednesday,Snowy,10.6,31,Female,44,Male,Arrested
+26,28-01-2023,01:14,Theft,Park,39.012589,-84.780986,Saturday,Rainy,12.8,35,Male,38,Female,Arrested
+27,04-06-2023,01:29,Homicide,Mall,39.563188,-85.692807,Sunday,Cloudy,28.9,17,Female,59,Female,Unsolved
+28,10-02-2023,19:40,Homicide,Residential Area,39.620033,-90.988951,Friday,Rainy,9.4,36,Female,77,Male,Under Investigation
+29,04-10-2022,13:06,Drug Offense,Mall,36.34367,-109.741778,Tuesday,Rainy,7.3,58,Female,33,Female,Unsolved
+30,09-06-2022,09:59,Burglary,Industrial Zone,35.661344,-89.317609,Thursday,Snowy,-0.9,53,Male,46,Male,Under Investigation
+31,25-12-2022,03:13,Burglary,Park,37.882139,-107.130974,Sunday,Rainy,11.5,30,Male,18,Female,Arrested
+32,12-01-2023,18:40,Robbery,Industrial Zone,34.233544,-113.915437,Thursday,Clear,13.6,24,Male,24,Female,Unsolved
+33,28-05-2023,22:04,Robbery,Highway,38.045997,-95.624446,Sunday,Snowy,27,52,Male,43,Female,Unsolved
+34,10-05-2023,23:45,Theft,Mall,36.710181,-111.970178,Wednesday,Snowy,-2.6,59,Female,64,Male,Unsolved
+35,28-11-2022,10:48,Vandalism,Park,37.827235,-112.377393,Monday,Clear,14.8,56,Female,11,Male,Arrested
+36,01-07-2022,02:39,Drug Offense,Residential Area,37.903098,-113.035574,Friday,Snowy,-0.3,26,Male,56,Male,Unsolved
+37,04-09-2023,05:44,Assault,Downtown,38.601343,-75.791892,Monday,Rainy,11.3,56,Male,33,Female,Unsolved
+38,15-06-2022,19:20,Burglary,Residential Area,36.074047,-116.490493,Wednesday,Rainy,18.8,58,Female,64,Female,Arrested
+39,03-12-2022,02:05,Burglary,Highway,34.936025,-89.415164,Saturday,Snowy,8.6,29,Female,53,Female,Unsolved
+40,16-06-2023,18:37,Burglary,Suburb,35.612112,-105.289971,Friday,Clear,27.6,46,Female,25,Male,Unsolved
+41,07-01-2023,23:48,Vandalism,Park,37.024705,-117.630191,Saturday,Cloudy,-4.1,58,Female,20,Male,Unsolved
+42,02-12-2023,11:17,Theft,Residential Area,34.463195,-99.185467,Saturday,Snowy,-1.7,17,Female,25,Female,Under Investigation
+43,02-10-2023,22:39,Robbery,Mall,34.074002,-84.435316,Monday,Snowy,12.6,22,Female,69,Male,Under Investigation
+44,19-03-2022,11:51,Drug Offense,Industrial Zone,36.162103,-107.162334,Saturday,Cloudy,10.3,24,Female,40,Female,Under Investigation
+45,03-07-2023,06:53,Homicide,Highway,35.568581,-96.196286,Monday,Rainy,1.7,31,Female,76,Female,Arrested
+46,01-11-2023,05:40,Robbery,Residential Area,37.096375,-84.236657,Wednesday,Cloudy,7,51,Male,25,Female,Unsolved
+47,14-01-2022,09:58,Theft,Suburb,35.773441,-102.260208,Friday,Snowy,-2.3,38,Male,11,Male,Under Investigation
+48,31-03-2022,14:24,Homicide,Suburb,35.295954,-75.917739,Thursday,Clear,12.5,33,Male,28,Female,Arrested
+49,05-02-2023,06:53,Theft,Downtown,38.798447,-92.506878,Sunday,Foggy,-3.3,28,Male,57,Male,Under Investigation
+50,01-10-2022,21:53,Robbery,Downtown,39.551908,-110.19624,Saturday,Cloudy,33.8,20,Male,26,Female,Arrested
+51,31-03-2023,10:28,Vandalism,Residential Area,37.120357,-111.122211,Friday,Foggy,9.7,18,Female,10,Male,Under Investigation
+52,18-06-2022,23:40,Homicide,Mall,38.176963,-109.081106,Saturday,Snowy,11.5,37,Female,27,Female,Arrested
+53,16-02-2022,06:32,Homicide,Park,39.661022,-89.001701,Wednesday,Rainy,0.8,31,Male,14,Male,Under Investigation
+54,01-09-2023,02:34,Robbery,Mall,38.789191,-102.151374,Friday,Rainy,10.7,45,Female,13,Female,Under Investigation
+55,18-08-2022,10:46,Theft,Mall,34.263711,-104.862254,Thursday,Cloudy,10.3,45,Male,39,Female,Arrested
+56,12-07-2023,07:19,Fraud,Suburb,37.113689,-96.930094,Wednesday,Rainy,15,31,Male,62,Male,Arrested
+57,05-08-2022,04:58,Assault,Industrial Zone,38.807054,-76.612225,Friday,Clear,29.1,51,Female,65,Female,Under Investigation
+58,28-03-2023,17:19,Burglary,Mall,37.629706,-75.81066,Tuesday,Snowy,17.8,60,Female,57,Male,Unsolved
+59,10-12-2023,23:15,Drug Offense,Highway,39.010523,-97.128912,Sunday,Rainy,24.6,59,Male,35,Male,Under Investigation
+60,03-10-2023,18:31,Homicide,Mall,35.780221,-84.181102,Tuesday,Snowy,17.9,53,Female,27,Male,Arrested
+61,16-05-2023,07:07,Burglary,Industrial Zone,37.829974,-100.299238,Tuesday,Snowy,22.8,16,Male,26,Male,Unsolved
+62,27-07-2023,00:24,Robbery,Downtown,36.572851,-111.609334,Thursday,Rainy,8.6,28,Male,62,Female,Unsolved
+63,22-02-2023,07:11,Drug Offense,Industrial Zone,39.182451,-76.432459,Wednesday,Cloudy,25.9,31,Female,53,Male,Arrested
+64,09-04-2023,10:15,Vandalism,Suburb,38.353446,-88.227755,Sunday,Cloudy,21.7,41,Male,17,Male,Arrested
+65,18-08-2022,22:12,Assault,Park,38.731101,-79.258364,Thursday,Foggy,6.1,59,Male,75,Female,Arrested
+66,04-06-2023,00:20,Burglary,Park,34.937666,-115.904127,Sunday,Cloudy,24.1,28,Male,35,Male,Arrested
+67,23-02-2022,16:53,Theft,Suburb,36.90606,-97.066896,Wednesday,Snowy,7.3,38,Female,47,Male,Under Investigation
+68,29-07-2023,13:58,Homicide,Highway,38.706492,-113.082288,Saturday,Cloudy,19.1,50,Female,28,Male,Under Investigation
+69,02-03-2022,23:39,Vandalism,Suburb,38.567075,-102.963172,Wednesday,Foggy,19.5,37,Female,36,Female,Unsolved
+70,03-12-2022,23:42,Burglary,Mall,37.258349,-98.167554,Saturday,Foggy,26.3,57,Male,70,Male,Arrested
+71,17-05-2022,13:33,Vandalism,Downtown,37.491756,-114.209433,Tuesday,Cloudy,20.1,22,Male,57,Male,Under Investigation
+72,22-05-2023,07:16,Drug Offense,Downtown,35.602528,-96.384063,Monday,Clear,12.6,50,Male,12,Female,Under Investigation
+73,14-11-2022,11:05,Robbery,Residential Area,35.29722,-88.062277,Monday,Foggy,9.8,32,Male,13,Female,Unsolved
+74,12-03-2023,04:46,Assault,Industrial Zone,36.985589,-106.87691,Sunday,Rainy,3.5,57,Male,44,Male,Unsolved
+75,20-11-2023,15:04,Theft,Industrial Zone,34.150979,-92.966557,Monday,Rainy,-3,52,Female,49,Female,Unsolved
+76,18-11-2023,16:07,Theft,Suburb,34.519117,-115.325821,Saturday,Snowy,19.1,34,Male,27,Male,Under Investigation
+77,05-08-2022,05:16,Burglary,Park,34.838169,-81.694244,Friday,Snowy,19.8,30,Male,41,Male,Unsolved
+78,19-06-2023,06:06,Burglary,Downtown,39.835816,-84.626947,Monday,Cloudy,31.8,20,Male,80,Female,Arrested
+79,28-06-2023,13:45,Drug Offense,Suburb,35.423484,-83.827351,Wednesday,Snowy,26.9,47,Male,35,Male,Under Investigation
+80,05-01-2023,19:05,Homicide,Highway,35.281002,-84.082279,Thursday,Clear,9.5,34,Male,32,Male,Arrested
+81,11-01-2022,06:47,Robbery,Mall,39.931386,-101.212259,Tuesday,Cloudy,34,28,Male,22,Female,Arrested
+82,14-01-2023,16:58,Robbery,Residential Area,34.8006,-89.453516,Saturday,Cloudy,16.7,16,Male,29,Male,Arrested
+83,18-03-2022,01:13,Drug Offense,Residential Area,36.389096,-76.065205,Friday,Foggy,13.4,33,Male,11,Male,Unsolved
+84,31-05-2022,05:17,Robbery,Suburb,35.190205,-108.461496,Tuesday,Snowy,34.5,22,Female,78,Male,Under Investigation
+85,23-08-2023,02:25,Theft,Highway,35.746408,-89.557384,Wednesday,Rainy,0.3,32,Male,49,Female,Under Investigation
+86,04-10-2023,20:42,Vandalism,Mall,34.27514,-94.081812,Wednesday,Clear,17.8,40,Female,37,Female,Under Investigation
+87,19-04-2023,05:38,Homicide,Downtown,38.616126,-116.872293,Wednesday,Rainy,-3.6,27,Male,72,Female,Unsolved
+88,11-09-2023,01:41,Burglary,Downtown,37.37503,-81.911519,Monday,Rainy,29.4,53,Female,54,Female,Unsolved
+89,03-03-2023,05:05,Theft,Park,36.698999,-78.400077,Friday,Cloudy,5.2,22,Female,70,Female,Under Investigation
+90,11-06-2022,23:19,Robbery,Suburb,36.541474,-77.655564,Saturday,Rainy,23.2,45,Male,80,Female,Arrested
+91,10-02-2022,01:22,Drug Offense,Highway,36.231844,-112.365919,Thursday,Cloudy,9,52,Female,45,Male,Unsolved
+92,04-08-2023,05:31,Drug Offense,Park,34.39492,-117.322183,Friday,Foggy,8.3,31,Male,70,Male,Under Investigation
+93,23-06-2022,18:10,Assault,Park,36.935192,-79.7667,Thursday,Snowy,16.1,20,Female,64,Male,Unsolved
+94,16-03-2022,08:23,Theft,Highway,35.485968,-85.33682,Wednesday,Snowy,22.4,35,Female,46,Male,Under Investigation
+95,27-12-2022,14:45,Homicide,Residential Area,37.8726,-82.656985,Tuesday,Cloudy,-1.6,37,Female,54,Female,Arrested
+96,10-08-2022,02:40,Fraud,Mall,35.592253,-110.230946,Wednesday,Rainy,21,22,Female,32,Female,Unsolved
+97,10-12-2022,12:15,Drug Offense,Downtown,34.555839,-80.718943,Saturday,Foggy,26.5,34,Female,18,Female,Unsolved
+98,26-11-2022,23:40,Fraud,Downtown,35.120403,-86.739323,Saturday,Foggy,34.4,41,Male,77,Male,Unsolved
+99,11-07-2022,16:21,Burglary,Industrial Zone,34.332821,-103.761422,Monday,Cloudy,5.5,53,Female,20,Female,Unsolved
+100,16-09-2023,13:13,Theft,Residential Area,35.378162,-112.609772,Saturday,Foggy,-3.5,23,Female,69,Female,Unsolved
+101,09-09-2022,07:26,Burglary,Mall,38.968637,-116.501936,Friday,Snowy,26.8,24,Female,16,Female,Unsolved
+102,10-02-2022,03:48,Burglary,Park,35.73727,-92.072545,Thursday,Snowy,14.9,47,Male,48,Female,Under Investigation
+103,05-04-2023,00:00,Vandalism,Mall,37.032268,-107.276644,Wednesday,Foggy,-3,43,Female,14,Female,Unsolved
+104,23-07-2022,10:32,Assault,Suburb,34.996168,-95.219754,Saturday,Cloudy,7.3,59,Male,17,Female,Unsolved
+105,13-11-2023,06:29,Homicide,Park,35.710818,-86.557131,Monday,Clear,18.2,24,Male,49,Male,Unsolved
+106,17-04-2022,08:06,Homicide,Highway,34.016083,-93.49043,Sunday,Clear,12.4,22,Female,33,Female,Unsolved
+107,04-06-2023,20:19,Drug Offense,Highway,39.231087,-115.833039,Sunday,Snowy,-2.5,59,Female,51,Male,Arrested
+108,13-10-2022,06:14,Fraud,Suburb,39.808587,-78.71639,Thursday,Rainy,19,43,Male,68,Female,Under Investigation
+109,19-10-2023,20:10,Fraud,Residential Area,35.163159,-81.703779,Thursday,Rainy,1.2,21,Male,16,Female,Unsolved
+110,02-10-2022,04:05,Theft,Park,38.940414,-85.87347,Sunday,Cloudy,29.2,52,Female,33,Male,Under Investigation
+111,08-02-2023,01:08,Assault,Highway,38.049423,-106.14024,Wednesday,Rainy,24.5,51,Male,33,Female,Unsolved
+112,10-06-2023,10:27,Homicide,Highway,34.394567,-105.402364,Saturday,Cloudy,-0.5,39,Male,69,Female,Unsolved
+113,16-09-2022,17:59,Assault,Residential Area,37.643794,-100.813448,Friday,Clear,13.7,52,Female,74,Female,Under Investigation
+114,26-02-2022,12:33,Drug Offense,Residential Area,38.804647,-87.626675,Saturday,Foggy,-0.8,21,Male,44,Female,Unsolved
+115,27-01-2022,19:59,Drug Offense,Highway,34.80165,-87.546933,Thursday,Rainy,2.3,17,Male,28,Female,Unsolved
+116,23-06-2023,15:27,Assault,Residential Area,35.329988,-81.159407,Friday,Cloudy,19.6,54,Female,36,Male,Under Investigation
+117,31-07-2022,07:05,Fraud,Highway,36.792586,-99.940766,Sunday,Snowy,25.6,27,Male,44,Male,Unsolved
+118,11-09-2022,08:41,Homicide,Residential Area,37.029638,-100.390397,Sunday,Foggy,10.3,22,Male,43,Male,Under Investigation
+119,03-03-2022,10:51,Robbery,Mall,39.074805,-100.060907,Thursday,Clear,1.4,48,Female,69,Male,Unsolved
+120,15-05-2023,06:46,Vandalism,Park,36.684142,-109.442869,Monday,Cloudy,8.2,32,Male,27,Female,Under Investigation
+121,27-07-2023,14:42,Vandalism,Highway,35.371392,-95.876117,Thursday,Clear,8.5,40,Female,34,Male,Unsolved
+122,19-08-2022,13:24,Homicide,Industrial Zone,35.245275,-98.770656,Friday,Rainy,33.9,22,Male,13,Female,Unsolved
+123,18-06-2022,02:55,Fraud,Residential Area,38.769662,-117.203483,Saturday,Clear,14.3,47,Male,33,Male,Arrested
+124,28-01-2023,12:10,Assault,Highway,35.295072,-82.086759,Saturday,Snowy,14.1,32,Female,72,Male,Arrested
+125,20-10-2023,22:34,Vandalism,Industrial Zone,36.467648,-114.796952,Friday,Rainy,27.9,37,Female,22,Female,Arrested
+126,21-04-2022,15:53,Homicide,Park,34.966345,-78.84259,Thursday,Snowy,18.9,31,Male,75,Female,Unsolved
+127,03-03-2022,08:39,Robbery,Residential Area,36.106651,-76.285664,Thursday,Foggy,8,25,Male,34,Female,Under Investigation
+128,21-09-2022,02:25,Burglary,Downtown,34.197072,-80.551359,Wednesday,Cloudy,8.7,26,Female,62,Female,Arrested
+129,01-03-2022,18:03,Fraud,Industrial Zone,36.537182,-82.321045,Tuesday,Cloudy,27.3,36,Male,11,Female,Unsolved
+130,27-05-2022,02:20,Drug Offense,Suburb,35.283112,-84.342509,Friday,Snowy,21.7,52,Female,42,Female,Unsolved
+131,10-08-2023,01:27,Assault,Suburb,34.825996,-79.278769,Thursday,Clear,12.5,34,Male,46,Male,Unsolved
+132,09-07-2023,17:24,Homicide,Highway,36.629457,-84.582094,Sunday,Rainy,4,39,Female,38,Male,Under Investigation
+133,26-03-2022,21:20,Theft,Highway,36.253103,-89.266953,Saturday,Clear,3.5,45,Female,37,Female,Arrested
+134,28-06-2022,15:12,Vandalism,Industrial Zone,38.061091,-106.900959,Tuesday,Clear,19.6,47,Female,26,Male,Arrested
+135,18-10-2023,10:27,Theft,Industrial Zone,39.472387,-106.599824,Wednesday,Snowy,-1,37,Female,50,Female,Arrested
+136,04-01-2023,18:20,Fraud,Mall,39.308306,-97.69518,Wednesday,Foggy,18.4,50,Female,46,Male,Under Investigation
+137,04-11-2022,15:09,Assault,Residential Area,34.160318,-102.673918,Friday,Cloudy,-2.2,39,Male,42,Female,Under Investigation
+138,29-10-2022,09:18,Burglary,Industrial Zone,36.897626,-88.249155,Saturday,Rainy,7.4,51,Female,51,Male,Unsolved
+139,18-02-2023,06:21,Vandalism,Suburb,37.886188,-113.846719,Saturday,Clear,10,56,Female,49,Male,Arrested
+140,18-03-2022,18:43,Homicide,Highway,35.212421,-87.477684,Friday,Foggy,32.8,23,Male,57,Female,Under Investigation
+141,09-05-2022,02:26,Homicide,Highway,37.821154,-109.688155,Monday,Rainy,31.4,36,Male,15,Male,Unsolved
+142,28-12-2022,17:15,Robbery,Industrial Zone,39.475358,-115.904408,Wednesday,Foggy,22.4,38,Female,69,Male,Unsolved
+143,23-08-2023,03:00,Assault,Downtown,39.15285,-83.506919,Wednesday,Clear,-4.6,28,Female,65,Female,Arrested
+144,23-04-2023,19:37,Burglary,Highway,38.594353,-84.241961,Sunday,Snowy,30.2,46,Male,12,Female,Under Investigation
+145,30-12-2023,06:03,Homicide,Park,35.850813,-115.057993,Saturday,Foggy,-4.8,43,Male,51,Female,Unsolved
+146,16-10-2022,15:44,Fraud,Downtown,39.033006,-102.211066,Sunday,Clear,14.8,46,Male,12,Female,Under Investigation
+147,21-12-2022,10:45,Homicide,Suburb,35.668391,-105.779109,Wednesday,Snowy,-4.4,58,Male,62,Male,Under Investigation
+148,23-11-2022,18:43,Theft,Park,36.905031,-111.933004,Wednesday,Rainy,22.2,53,Female,29,Female,Arrested
+149,06-05-2023,13:20,Vandalism,Downtown,36.88224,-92.569692,Saturday,Snowy,33.5,21,Female,34,Male,Arrested
+150,15-07-2023,11:55,Robbery,Park,38.559534,-89.891834,Saturday,Clear,33.2,50,Male,12,Male,Arrested
+151,22-03-2023,19:44,Drug Offense,Downtown,36.029104,-91.796072,Wednesday,Snowy,30.5,59,Female,27,Male,Unsolved
+152,07-11-2022,11:32,Drug Offense,Highway,37.510603,-96.171745,Monday,Foggy,23.3,39,Male,40,Female,Unsolved
+153,15-12-2022,06:03,Assault,Residential Area,34.990351,-93.3955,Thursday,Foggy,28.9,48,Female,60,Male,Arrested
+154,22-01-2023,18:17,Robbery,Residential Area,35.162134,-99.937201,Sunday,Cloudy,4,47,Female,11,Female,Under Investigation
+155,25-01-2022,00:46,Vandalism,Park,34.954219,-90.787103,Tuesday,Foggy,4,16,Female,61,Male,Under Investigation
+156,08-07-2022,01:44,Theft,Suburb,37.048521,-116.473571,Friday,Cloudy,27.4,33,Female,18,Female,Under Investigation
+157,05-01-2023,00:16,Vandalism,Industrial Zone,39.243476,-96.660162,Thursday,Clear,30.9,54,Female,79,Female,Arrested
+158,15-12-2022,11:47,Burglary,Suburb,37.618122,-99.567514,Thursday,Snowy,19.7,37,Male,62,Female,Unsolved
+159,24-12-2022,13:38,Burglary,Residential Area,35.820524,-102.544419,Saturday,Rainy,14.7,30,Male,71,Male,Unsolved
+160,15-05-2023,11:36,Fraud,Highway,38.535098,-96.931373,Monday,Snowy,3.7,16,Female,54,Female,Arrested
+161,01-01-2023,04:34,Drug Offense,Industrial Zone,39.299198,-117.303939,Sunday,Rainy,32.5,28,Female,71,Female,Unsolved
+162,08-11-2022,04:43,Burglary,Highway,36.391322,-87.705163,Tuesday,Cloudy,32.4,42,Male,25,Male,Under Investigation
+163,15-01-2023,17:40,Theft,Industrial Zone,37.343205,-114.47445,Sunday,Clear,17.1,32,Female,49,Male,Arrested
+164,26-09-2022,01:40,Drug Offense,Park,35.956343,-112.681418,Monday,Clear,-2.9,18,Male,10,Female,Under Investigation
+165,02-09-2022,18:09,Homicide,Park,34.52628,-79.108806,Friday,Clear,23.7,57,Male,14,Female,Unsolved
+166,24-11-2022,15:07,Assault,Residential Area,38.28922,-116.189952,Thursday,Clear,24.4,28,Male,31,Female,Under Investigation
+167,29-08-2022,20:03,Fraud,Suburb,39.77649,-77.680087,Monday,Cloudy,20.1,55,Male,34,Male,Under Investigation
+168,10-09-2023,16:53,Assault,Residential Area,34.027962,-115.60171,Sunday,Clear,15.7,44,Female,39,Male,Unsolved
+169,24-02-2023,03:14,Assault,Highway,38.285644,-111.93053,Friday,Foggy,5.2,28,Female,17,Male,Unsolved
+170,26-04-2022,01:07,Homicide,Residential Area,36.040492,-103.701343,Tuesday,Cloudy,29.6,21,Male,70,Male,Under Investigation
+171,07-02-2022,00:07,Burglary,Residential Area,38.969797,-90.358516,Monday,Clear,-4.9,45,Male,38,Female,Arrested
+172,20-03-2022,08:24,Burglary,Residential Area,36.473958,-75.452812,Sunday,Rainy,15,60,Male,72,Male,Unsolved
+173,06-08-2022,18:46,Vandalism,Park,38.472503,-105.16908,Saturday,Foggy,32.9,59,Male,47,Male,Under Investigation
+174,25-09-2022,11:53,Assault,Downtown,37.574491,-111.88715,Sunday,Rainy,18,50,Female,15,Male,Unsolved
+175,03-11-2023,12:43,Fraud,Residential Area,37.458375,-85.049686,Friday,Clear,9.2,42,Female,21,Male,Unsolved
+176,13-02-2022,06:25,Burglary,Downtown,34.713045,-91.914406,Sunday,Rainy,15.1,29,Male,42,Male,Arrested
+177,04-09-2023,10:04,Fraud,Mall,39.753553,-78.810302,Monday,Cloudy,5.3,56,Male,67,Female,Unsolved
+178,09-06-2022,05:35,Vandalism,Park,39.028151,-112.854005,Thursday,Foggy,30.8,25,Male,72,Male,Unsolved
+179,05-08-2022,20:23,Homicide,Park,34.242706,-91.839586,Friday,Snowy,13,58,Female,40,Male,Arrested
+180,20-12-2022,08:42,Theft,Park,35.117786,-110.416581,Tuesday,Cloudy,8.7,33,Female,24,Female,Under Investigation
+181,27-12-2023,10:14,Robbery,Residential Area,35.827906,-105.040195,Wednesday,Snowy,-4.4,29,Male,73,Male,Arrested
+182,13-01-2023,14:17,Burglary,Downtown,35.076676,-105.919624,Friday,Cloudy,22.3,53,Male,40,Female,Unsolved
+183,15-09-2022,00:16,Burglary,Mall,37.556811,-91.312712,Thursday,Foggy,9.8,44,Female,72,Male,Under Investigation
+184,04-03-2022,05:52,Robbery,Residential Area,36.352831,-106.237095,Friday,Snowy,32.9,25,Female,70,Female,Under Investigation
+185,06-05-2022,20:15,Assault,Downtown,38.136542,-112.156045,Friday,Cloudy,31.5,42,Female,76,Male,Under Investigation
+186,08-09-2023,23:35,Vandalism,Suburb,38.410237,-95.491285,Friday,Rainy,27.3,20,Female,69,Female,Under Investigation
+187,20-06-2022,21:50,Assault,Highway,36.134692,-108.350658,Monday,Foggy,12.5,17,Female,80,Male,Arrested
+188,16-07-2022,23:00,Assault,Highway,39.274488,-87.753815,Saturday,Cloudy,24.2,18,Male,26,Female,Unsolved
+189,01-01-2022,09:19,Homicide,Downtown,36.59201,-80.56951,Saturday,Rainy,10.2,33,Female,27,Male,Under Investigation
+190,05-04-2023,08:04,Fraud,Park,35.909921,-110.702766,Wednesday,Snowy,3.2,32,Female,46,Male,Arrested
+191,14-05-2023,01:35,Assault,Residential Area,38.04978,-75.468676,Sunday,Snowy,1.3,28,Female,19,Male,Unsolved
+192,20-02-2023,13:57,Vandalism,Highway,36.052707,-79.089526,Monday,Clear,14,35,Female,50,Male,Arrested
+193,02-06-2022,07:28,Assault,Downtown,37.542916,-108.076912,Thursday,Cloudy,8.1,19,Male,43,Male,Unsolved
+194,22-06-2022,09:37,Robbery,Industrial Zone,35.661205,-115.140324,Wednesday,Foggy,-0.1,36,Female,55,Male,Arrested
+195,24-10-2022,22:26,Robbery,Mall,35.982559,-104.840296,Monday,Snowy,10.8,20,Male,51,Female,Arrested
+196,28-10-2022,22:55,Drug Offense,Park,36.975066,-114.78182,Friday,Clear,-0.1,31,Male,80,Male,Under Investigation
+197,20-11-2023,07:22,Burglary,Highway,37.452647,-79.266685,Monday,Rainy,0.7,33,Male,22,Female,Unsolved
+198,06-09-2023,04:47,Robbery,Highway,39.681036,-81.414004,Wednesday,Snowy,29.9,17,Male,36,Male,Unsolved
+199,20-08-2022,00:12,Homicide,Mall,38.162133,-113.09265,Saturday,Cloudy,20.9,20,Female,77,Female,Arrested
+200,03-01-2022,14:21,Theft,Industrial Zone,36.885299,-85.522276,Monday,Clear,24.5,16,Female,19,Female,Unsolved
+201,05-07-2022,08:36,Homicide,Park,35.23555,-109.131255,Tuesday,Foggy,13,55,Male,76,Male,Arrested
+202,02-08-2022,08:59,Theft,Highway,35.658114,-113.493126,Tuesday,Clear,29.1,50,Female,77,Male,Unsolved
+203,26-01-2023,11:21,Burglary,Industrial Zone,38.877942,-80.051736,Thursday,Rainy,29.4,33,Male,78,Male,Unsolved
+204,14-01-2023,07:23,Theft,Industrial Zone,36.462884,-80.924176,Saturday,Snowy,-0.3,39,Male,52,Female,Unsolved
+205,16-11-2023,12:19,Vandalism,Park,37.100564,-102.95704,Thursday,Rainy,33.6,43,Female,18,Male,Unsolved
+206,19-09-2022,15:41,Drug Offense,Highway,35.734078,-92.032641,Monday,Snowy,25.7,45,Female,59,Female,Under Investigation
+207,02-06-2023,12:52,Robbery,Mall,38.131181,-108.294579,Friday,Foggy,22.8,17,Female,69,Female,Arrested
+208,25-05-2022,17:09,Robbery,Mall,34.711879,-90.675759,Wednesday,Cloudy,8.7,46,Male,47,Male,Under Investigation
+209,19-08-2023,13:30,Burglary,Mall,38.479252,-81.189543,Saturday,Rainy,6.1,44,Female,11,Male,Arrested
+210,15-04-2023,15:21,Robbery,Suburb,35.648145,-76.278552,Saturday,Rainy,16.8,55,Female,52,Male,Unsolved
+211,08-03-2022,01:27,Fraud,Suburb,37.699382,-107.983213,Tuesday,Foggy,15.6,51,Male,68,Male,Unsolved
+212,11-05-2023,15:00,Theft,Residential Area,39.779412,-92.660949,Thursday,Snowy,-1,37,Male,73,Male,Arrested
+213,29-05-2023,12:12,Theft,Industrial Zone,36.113127,-77.40437,Monday,Clear,27,31,Male,78,Male,Arrested
+214,11-09-2023,17:36,Burglary,Mall,37.184357,-90.635684,Monday,Clear,14.9,59,Female,74,Female,Unsolved
+215,06-10-2022,07:34,Assault,Industrial Zone,38.296198,-107.33032,Thursday,Clear,18.5,27,Male,28,Female,Unsolved
+216,19-06-2023,09:09,Vandalism,Downtown,39.809248,-80.161966,Monday,Foggy,-3.6,47,Female,24,Female,Arrested
+217,07-06-2022,02:29,Burglary,Park,34.562585,-96.770225,Tuesday,Clear,2.4,34,Male,34,Female,Unsolved
+218,16-05-2023,05:55,Robbery,Highway,36.426033,-98.032671,Tuesday,Clear,17.6,58,Female,12,Male,Unsolved
+219,13-09-2023,05:33,Vandalism,Park,34.208818,-80.051102,Wednesday,Snowy,17.6,53,Male,18,Female,Unsolved
+220,08-11-2023,05:16,Drug Offense,Industrial Zone,37.389519,-104.356472,Wednesday,Cloudy,28.8,26,Female,18,Male,Unsolved
+221,03-07-2023,00:48,Homicide,Downtown,36.423026,-89.058059,Monday,Clear,-2.4,56,Male,75,Female,Arrested
+222,29-04-2023,11:50,Robbery,Highway,37.201141,-88.509865,Saturday,Clear,29.5,30,Male,64,Male,Unsolved
+223,09-11-2023,09:20,Theft,Industrial Zone,38.850269,-93.630513,Thursday,Clear,30.4,52,Male,13,Female,Arrested
+224,21-08-2022,11:23,Fraud,Residential Area,36.879586,-114.103316,Sunday,Clear,29.5,45,Male,56,Male,Unsolved
+225,27-06-2023,14:02,Homicide,Residential Area,36.991583,-81.59408,Tuesday,Snowy,-1.5,29,Female,15,Female,Under Investigation
+226,11-03-2023,21:52,Vandalism,Downtown,37.581337,-108.774943,Saturday,Clear,6,45,Female,49,Male,Under Investigation
+227,31-10-2022,20:08,Fraud,Highway,35.305413,-105.107013,Monday,Foggy,20.8,40,Female,29,Female,Under Investigation
+228,23-09-2022,02:26,Theft,Residential Area,34.693819,-108.35364,Friday,Snowy,34.3,36,Male,57,Male,Arrested
+229,25-05-2023,10:20,Fraud,Highway,37.933844,-116.359839,Thursday,Clear,15.4,38,Male,43,Male,Unsolved
+230,04-09-2023,09:54,Robbery,Residential Area,34.583235,-84.522153,Monday,Clear,9.3,31,Male,34,Male,Arrested
+231,16-04-2022,21:15,Drug Offense,Park,36.499018,-116.205543,Saturday,Snowy,32.1,33,Male,55,Male,Unsolved
+232,25-07-2023,20:47,Homicide,Park,37.458445,-100.134956,Tuesday,Cloudy,13.1,23,Female,44,Male,Arrested
+233,06-09-2022,13:37,Drug Offense,Highway,38.139156,-104.173582,Tuesday,Clear,9.5,54,Female,59,Female,Arrested
+234,13-11-2022,06:05,Assault,Downtown,39.32747,-116.14553,Sunday,Cloudy,11.7,29,Male,21,Male,Arrested
+235,06-03-2022,03:12,Theft,Downtown,36.060703,-109.419198,Sunday,Cloudy,-3.5,37,Male,36,Male,Under Investigation
+236,19-09-2022,04:41,Fraud,Residential Area,35.914273,-87.936836,Monday,Snowy,16.4,49,Male,19,Male,Under Investigation
+237,02-02-2022,14:33,Homicide,Suburb,37.500574,-107.23291,Wednesday,Cloudy,15.8,39,Male,66,Male,Under Investigation
+238,06-03-2022,15:31,Homicide,Residential Area,35.0245,-80.221484,Sunday,Rainy,11,46,Female,23,Female,Under Investigation
+239,31-01-2022,00:56,Assault,Industrial Zone,35.99922,-111.399976,Monday,Foggy,13.9,41,Male,76,Male,Arrested
+240,16-03-2022,19:21,Robbery,Suburb,36.522466,-94.302383,Wednesday,Foggy,13.6,28,Female,70,Female,Arrested
+241,25-01-2023,14:16,Drug Offense,Industrial Zone,34.162942,-112.809409,Wednesday,Snowy,-2.4,16,Male,42,Male,Arrested
+242,15-06-2023,05:13,Assault,Suburb,39.291304,-79.423829,Thursday,Cloudy,0.7,32,Male,64,Male,Arrested
+243,20-10-2022,05:01,Theft,Suburb,38.660127,-90.714791,Thursday,Foggy,-0.9,53,Female,64,Male,Under Investigation
+244,02-09-2022,08:57,Drug Offense,Highway,39.07319,-88.594009,Friday,Foggy,10.2,57,Male,79,Female,Unsolved
+245,03-11-2023,20:37,Fraud,Highway,38.887727,-89.563694,Friday,Clear,9.5,16,Female,46,Female,Under Investigation
+246,26-07-2023,16:06,Fraud,Park,35.360265,-107.853952,Wednesday,Foggy,8.5,29,Female,76,Female,Under Investigation
+247,05-09-2023,18:53,Homicide,Downtown,38.108238,-85.698768,Tuesday,Foggy,13.4,41,Female,23,Male,Arrested
+248,09-09-2022,01:14,Fraud,Highway,34.290641,-79.185666,Friday,Cloudy,3.2,48,Female,20,Female,Under Investigation
+249,29-06-2023,11:25,Vandalism,Highway,37.908884,-107.023051,Thursday,Snowy,28.7,16,Male,80,Female,Under Investigation
+250,31-05-2023,13:21,Assault,Downtown,39.163038,-96.751233,Wednesday,Cloudy,33.3,51,Female,80,Male,Unsolved
+251,25-06-2022,19:37,Theft,Residential Area,35.241859,-116.735253,Saturday,Snowy,27,50,Male,69,Male,Arrested
+252,24-03-2022,18:51,Fraud,Suburb,38.503871,-80.768295,Thursday,Rainy,3.7,18,Male,42,Male,Under Investigation
+253,04-01-2023,13:05,Fraud,Highway,37.809957,-85.314397,Wednesday,Cloudy,21.7,22,Female,54,Female,Arrested
+254,10-01-2022,01:04,Homicide,Park,35.570292,-100.28524,Monday,Rainy,24.7,43,Male,11,Male,Arrested
+255,02-10-2022,13:29,Theft,Suburb,37.503237,-105.183371,Sunday,Clear,31.2,29,Female,21,Female,Arrested
+256,04-11-2022,06:35,Assault,Mall,38.447364,-104.371649,Friday,Rainy,25.6,17,Male,47,Male,Arrested
+257,16-10-2022,18:42,Burglary,Highway,37.273479,-83.530216,Sunday,Snowy,6.6,47,Female,80,Female,Unsolved
+258,19-07-2022,07:59,Fraud,Highway,36.044507,-93.22514,Tuesday,Clear,16.5,41,Female,32,Male,Unsolved
+259,25-11-2023,07:48,Fraud,Highway,37.753878,-112.309708,Saturday,Snowy,10.7,58,Male,15,Male,Unsolved
+260,24-01-2022,17:17,Burglary,Industrial Zone,38.017925,-88.611368,Monday,Clear,1.2,50,Male,53,Male,Arrested
+261,30-04-2022,21:19,Fraud,Park,34.62342,-112.100694,Saturday,Cloudy,7,32,Male,44,Male,Under Investigation
+262,07-11-2023,07:28,Theft,Highway,39.255091,-108.044351,Tuesday,Rainy,11.6,20,Male,47,Male,Unsolved
+263,02-05-2022,09:56,Fraud,Park,37.136975,-78.248472,Monday,Rainy,4.1,34,Male,23,Female,Unsolved
+264,02-01-2023,09:54,Vandalism,Park,34.775739,-105.892068,Monday,Rainy,9.6,42,Female,37,Female,Unsolved
+265,09-05-2023,21:50,Burglary,Park,34.101122,-108.886226,Tuesday,Snowy,20.8,28,Female,24,Male,Under Investigation
+266,28-10-2022,18:56,Homicide,Mall,37.017795,-79.989949,Friday,Clear,-3.1,29,Female,53,Male,Under Investigation
+267,12-03-2022,09:32,Fraud,Suburb,35.020374,-88.193577,Saturday,Rainy,-1.2,54,Female,60,Male,Under Investigation
+268,10-08-2023,08:38,Homicide,Park,36.457026,-100.089757,Thursday,Snowy,4.6,17,Male,19,Female,Arrested
+269,02-11-2022,02:00,Assault,Park,37.954429,-103.381626,Wednesday,Cloudy,23.5,58,Female,31,Male,Arrested
+270,16-08-2022,13:53,Homicide,Industrial Zone,35.054239,-78.85934,Tuesday,Foggy,31.5,25,Female,42,Male,Unsolved
+271,26-11-2023,11:08,Robbery,Downtown,38.110241,-98.968168,Sunday,Cloudy,3.9,17,Male,37,Female,Arrested
+272,02-12-2022,11:11,Drug Offense,Industrial Zone,35.695425,-115.390933,Friday,Clear,-0.9,52,Female,36,Female,Unsolved
+273,17-06-2022,23:32,Homicide,Highway,37.743025,-104.92109,Friday,Foggy,16.9,28,Male,54,Male,Under Investigation
+274,03-07-2022,21:23,Assault,Suburb,39.618522,-104.316079,Sunday,Foggy,-1.7,21,Male,73,Female,Arrested
+275,08-07-2022,17:13,Theft,Industrial Zone,34.066459,-116.666958,Friday,Foggy,20.8,42,Male,40,Male,Unsolved
+276,26-01-2022,13:55,Robbery,Mall,34.323124,-101.756209,Wednesday,Foggy,1.3,56,Female,21,Female,Arrested
+277,09-01-2023,20:46,Assault,Highway,35.83462,-103.986901,Monday,Clear,16.9,60,Male,50,Female,Under Investigation
+278,08-01-2022,06:52,Burglary,Park,34.511398,-95.316698,Saturday,Rainy,-4.9,23,Male,30,Female,Arrested
+279,25-12-2023,10:48,Burglary,Suburb,37.331633,-84.410592,Monday,Cloudy,1.5,50,Female,65,Female,Arrested
+280,07-05-2023,06:25,Vandalism,Suburb,38.214823,-76.375073,Sunday,Snowy,18.5,34,Female,56,Female,Unsolved
+281,16-11-2022,07:03,Homicide,Industrial Zone,39.587506,-86.34826,Wednesday,Clear,9.7,59,Female,20,Male,Under Investigation
+282,17-07-2023,20:50,Drug Offense,Suburb,36.173974,-101.353149,Monday,Clear,-0.6,16,Female,64,Female,Under Investigation
+283,14-09-2022,19:52,Homicide,Park,36.301096,-87.522451,Wednesday,Foggy,-3.8,56,Female,27,Male,Arrested
+284,26-06-2023,01:20,Robbery,Highway,34.707052,-96.371769,Monday,Cloudy,12,30,Female,38,Female,Under Investigation
+285,04-02-2022,22:18,Assault,Residential Area,39.540118,-78.13881,Friday,Clear,12.8,49,Male,45,Female,Arrested
+286,23-08-2022,09:39,Burglary,Downtown,36.184122,-85.584143,Tuesday,Rainy,10.2,40,Male,73,Female,Under Investigation
+287,22-09-2023,10:17,Homicide,Mall,38.929171,-102.363448,Friday,Foggy,19.3,42,Female,60,Female,Unsolved
+288,08-08-2022,05:58,Burglary,Park,36.685776,-107.755725,Monday,Rainy,23.8,34,Female,67,Female,Arrested
+289,10-12-2022,16:39,Fraud,Park,34.059648,-106.154832,Saturday,Snowy,33.5,34,Female,31,Female,Arrested
+290,14-06-2023,00:19,Burglary,Downtown,39.031574,-100.894201,Wednesday,Cloudy,20.7,41,Female,13,Female,Under Investigation
+291,15-07-2022,12:54,Homicide,Mall,39.211941,-96.449331,Friday,Snowy,14.8,21,Male,19,Male,Arrested
+292,08-10-2023,13:13,Drug Offense,Park,34.060345,-88.573991,Sunday,Rainy,34.5,18,Female,15,Female,Arrested
+293,30-12-2022,04:10,Theft,Mall,36.044855,-96.693367,Friday,Clear,9.7,47,Male,25,Male,Unsolved
+294,22-01-2023,23:45,Vandalism,Downtown,36.341116,-80.578247,Sunday,Clear,-1.1,47,Male,57,Female,Arrested
+295,18-11-2023,09:46,Homicide,Industrial Zone,35.395905,-103.332396,Saturday,Foggy,11.7,17,Male,36,Female,Arrested
+296,26-12-2022,14:27,Vandalism,Residential Area,34.245174,-81.409225,Monday,Cloudy,-3,43,Female,79,Female,Unsolved
+297,06-09-2023,10:11,Fraud,Residential Area,35.744487,-106.673491,Wednesday,Snowy,12.9,25,Female,62,Male,Unsolved
+298,01-04-2022,22:12,Vandalism,Highway,38.041059,-106.426034,Friday,Clear,14.1,29,Male,68,Female,Arrested
+299,06-06-2022,04:42,Assault,Highway,36.053781,-103.224662,Monday,Clear,17.3,19,Female,70,Male,Under Investigation
+300,16-04-2022,11:56,Vandalism,Park,34.569423,-96.488871,Saturday,Cloudy,30.2,35,Male,50,Male,Under Investigation
+301,21-01-2023,15:27,Drug Offense,Suburb,34.397107,-89.84478,Saturday,Foggy,17.4,16,Female,29,Female,Unsolved
+302,25-10-2022,11:17,Drug Offense,Residential Area,38.866279,-87.312106,Tuesday,Foggy,-1.4,52,Male,67,Male,Arrested
+303,17-07-2023,15:56,Assault,Downtown,37.375803,-117.104098,Monday,Snowy,-2.7,60,Male,71,Female,Under Investigation
+304,27-02-2023,18:31,Vandalism,Park,39.98598,-75.461015,Monday,Rainy,19.7,57,Male,21,Female,Under Investigation
+305,04-01-2023,18:13,Theft,Mall,34.052961,-103.40972,Wednesday,Cloudy,3.5,40,Female,75,Female,Under Investigation
+306,26-12-2023,20:29,Drug Offense,Suburb,39.987518,-84.232131,Tuesday,Foggy,9.9,26,Female,69,Female,Unsolved
+307,01-10-2022,07:48,Robbery,Park,39.612573,-91.406955,Saturday,Foggy,25.2,46,Female,15,Female,Under Investigation
+308,30-09-2022,05:47,Homicide,Industrial Zone,39.3218,-95.10103,Friday,Rainy,18.6,56,Female,59,Female,Under Investigation
+309,11-04-2023,07:24,Fraud,Park,35.732247,-109.008547,Tuesday,Snowy,17.3,21,Male,66,Male,Unsolved
+310,03-07-2023,16:46,Burglary,Park,35.158519,-93.526581,Monday,Cloudy,32.8,47,Female,75,Male,Unsolved
+311,14-12-2023,11:07,Drug Offense,Industrial Zone,34.543133,-102.071566,Thursday,Snowy,30.1,42,Female,51,Female,Unsolved
+312,02-03-2023,03:11,Homicide,Residential Area,35.067483,-81.588775,Thursday,Foggy,28.2,51,Female,21,Male,Under Investigation
+313,21-09-2023,02:25,Theft,Residential Area,35.498366,-87.004435,Thursday,Clear,22.5,51,Female,72,Male,Under Investigation
+314,04-05-2023,11:28,Assault,Industrial Zone,37.322287,-112.274076,Thursday,Cloudy,29.3,25,Male,60,Male,Under Investigation
+315,20-11-2022,07:45,Burglary,Park,38.270542,-93.297428,Sunday,Cloudy,24.4,51,Female,75,Female,Under Investigation
+316,04-06-2022,00:08,Assault,Suburb,36.521635,-103.840372,Saturday,Clear,-2.2,56,Female,17,Male,Arrested
+317,30-12-2023,16:46,Robbery,Suburb,34.324954,-116.838589,Saturday,Snowy,13.3,27,Female,18,Male,Arrested
+318,30-01-2022,15:00,Vandalism,Mall,35.651039,-97.337919,Sunday,Foggy,30.6,50,Male,71,Male,Unsolved
+319,31-08-2023,07:31,Vandalism,Mall,34.446531,-87.110877,Thursday,Rainy,12.3,52,Male,45,Male,Unsolved
+320,20-08-2023,19:59,Assault,Highway,34.196794,-80.561973,Sunday,Clear,9,46,Female,18,Male,Unsolved
+321,02-10-2023,13:57,Homicide,Park,37.579583,-104.61242,Monday,Clear,12.3,58,Male,14,Male,Under Investigation
+322,11-04-2023,03:47,Theft,Mall,39.352969,-86.559449,Tuesday,Snowy,2.6,16,Female,52,Female,Arrested
+323,16-11-2023,02:37,Burglary,Park,39.212111,-114.75559,Thursday,Rainy,-2.4,16,Male,76,Female,Arrested
+324,08-12-2022,17:06,Burglary,Suburb,37.142668,-87.396435,Thursday,Cloudy,29.3,22,Male,26,Male,Under Investigation
+325,13-01-2022,17:24,Vandalism,Park,38.962227,-89.715721,Thursday,Snowy,25,20,Female,46,Female,Arrested
+326,07-08-2023,12:11,Drug Offense,Highway,36.893199,-91.720232,Monday,Clear,1.6,48,Male,74,Female,Arrested
+327,01-01-2023,17:39,Robbery,Residential Area,39.137067,-94.227226,Sunday,Rainy,32.8,27,Male,72,Male,Arrested
+328,25-11-2022,07:09,Homicide,Suburb,37.858853,-113.094089,Friday,Snowy,21.5,55,Female,30,Female,Unsolved
+329,15-11-2022,23:26,Burglary,Highway,38.891042,-91.263082,Tuesday,Clear,12.5,26,Male,20,Female,Under Investigation
+330,20-08-2022,06:37,Theft,Highway,34.285476,-117.5892,Saturday,Rainy,16.7,22,Male,58,Male,Under Investigation
+331,17-01-2023,20:14,Robbery,Highway,39.681932,-106.661473,Tuesday,Cloudy,32.9,43,Male,61,Male,Under Investigation
+332,10-02-2022,18:36,Vandalism,Residential Area,36.173659,-96.173162,Thursday,Snowy,9.7,16,Male,51,Male,Unsolved
+333,08-05-2022,12:59,Drug Offense,Residential Area,36.489335,-101.361395,Sunday,Rainy,8,20,Male,18,Female,Arrested
+334,04-12-2023,18:31,Drug Offense,Downtown,38.282302,-113.682541,Monday,Snowy,-4.2,44,Female,19,Female,Under Investigation
+335,18-08-2023,02:17,Robbery,Industrial Zone,36.884809,-114.551744,Friday,Rainy,-5,37,Female,36,Male,Unsolved
+336,03-05-2022,22:10,Vandalism,Mall,35.526504,-85.818987,Tuesday,Cloudy,-0.4,21,Female,69,Female,Arrested
+337,10-11-2022,08:11,Theft,Industrial Zone,37.305038,-117.399806,Thursday,Rainy,14.1,27,Female,12,Female,Under Investigation
+338,26-07-2023,08:19,Drug Offense,Highway,36.646516,-78.240404,Wednesday,Snowy,7.6,49,Male,47,Female,Under Investigation
+339,07-12-2023,12:55,Assault,Park,34.377683,-102.164377,Thursday,Clear,32.2,55,Female,69,Female,Arrested
+340,10-07-2023,19:57,Homicide,Park,38.634713,-88.89572,Monday,Rainy,28.4,32,Male,35,Male,Arrested
+341,24-06-2023,07:10,Burglary,Downtown,36.531618,-85.754848,Saturday,Rainy,15.8,18,Male,40,Male,Under Investigation
+342,10-10-2023,10:57,Burglary,Residential Area,36.647294,-109.235027,Tuesday,Cloudy,-3.8,38,Female,12,Female,Under Investigation
+343,03-01-2022,22:19,Vandalism,Industrial Zone,37.511531,-115.821311,Monday,Rainy,6.1,58,Female,50,Male,Under Investigation
+344,20-08-2023,20:27,Vandalism,Residential Area,35.939814,-110.220855,Sunday,Clear,31.7,59,Male,67,Male,Unsolved
+345,10-02-2023,01:01,Theft,Park,34.611548,-86.863771,Friday,Foggy,10,29,Female,78,Female,Arrested
+346,30-09-2023,11:34,Burglary,Highway,34.563348,-97.820465,Saturday,Cloudy,4.5,38,Female,76,Male,Under Investigation
+347,12-04-2023,01:52,Homicide,Mall,38.399077,-107.430766,Wednesday,Foggy,13,56,Female,48,Male,Under Investigation
+348,04-03-2023,05:47,Robbery,Park,38.402191,-105.701579,Saturday,Snowy,31.2,26,Male,77,Female,Under Investigation
+349,06-10-2022,07:39,Burglary,Mall,35.430582,-102.106029,Thursday,Clear,27.8,43,Male,21,Male,Unsolved
+350,20-01-2022,13:07,Theft,Suburb,37.987849,-110.288116,Thursday,Clear,16.5,37,Male,34,Female,Arrested
+351,15-07-2022,19:22,Homicide,Industrial Zone,35.421088,-103.404274,Friday,Snowy,34.9,39,Female,12,Female,Unsolved
+352,10-04-2023,19:15,Burglary,Downtown,36.513424,-77.748204,Monday,Clear,34.5,36,Female,18,Female,Under Investigation
+353,18-01-2022,00:51,Theft,Highway,39.682449,-90.338541,Tuesday,Rainy,30.8,41,Male,20,Male,Unsolved
+354,09-08-2022,07:09,Vandalism,Suburb,37.702721,-106.581813,Tuesday,Clear,13,50,Female,38,Female,Unsolved
+355,17-07-2023,12:52,Homicide,Park,35.627049,-75.398927,Monday,Clear,26.7,58,Female,41,Female,Arrested
+356,10-03-2022,12:01,Drug Offense,Mall,38.345378,-106.795452,Thursday,Foggy,-0.1,24,Male,23,Female,Under Investigation
+357,07-10-2022,21:17,Burglary,Mall,37.920103,-87.957932,Friday,Cloudy,3.8,24,Female,64,Female,Under Investigation
+358,07-12-2022,03:03,Vandalism,Downtown,38.221559,-83.014862,Wednesday,Snowy,32.1,40,Female,60,Male,Arrested
+359,10-07-2022,03:12,Homicide,Suburb,37.270248,-95.605027,Sunday,Clear,12.2,18,Male,78,Female,Under Investigation
+360,28-03-2023,05:00,Theft,Suburb,36.460327,-86.907175,Tuesday,Foggy,10,29,Male,77,Female,Under Investigation
+361,04-11-2022,16:42,Fraud,Industrial Zone,37.640928,-103.710325,Friday,Rainy,13,27,Male,52,Male,Arrested
+362,26-05-2022,07:15,Homicide,Residential Area,39.502131,-115.981543,Thursday,Clear,4,45,Male,44,Female,Unsolved
+363,31-05-2022,04:20,Robbery,Residential Area,35.100491,-106.906713,Tuesday,Snowy,22.2,47,Male,37,Female,Arrested
+364,10-03-2022,21:52,Theft,Highway,38.257169,-85.576843,Thursday,Snowy,17.9,36,Female,24,Male,Unsolved
+365,24-01-2022,05:55,Burglary,Downtown,38.376744,-102.255313,Monday,Foggy,10.3,32,Female,10,Female,Unsolved
+366,17-06-2023,12:01,Robbery,Residential Area,38.772931,-106.624428,Saturday,Snowy,22.9,47,Male,12,Female,Unsolved
+367,24-07-2022,04:05,Fraud,Residential Area,35.856374,-92.440554,Sunday,Cloudy,8.3,24,Male,77,Female,Unsolved
+368,03-12-2022,02:43,Robbery,Highway,36.901314,-108.753409,Saturday,Clear,5.9,22,Female,71,Male,Unsolved
+369,20-09-2022,13:12,Burglary,Mall,36.564967,-109.536854,Tuesday,Foggy,0.1,48,Male,66,Male,Unsolved
+370,03-12-2022,09:02,Theft,Downtown,39.016007,-97.562299,Saturday,Clear,25.4,38,Female,53,Female,Unsolved
+371,11-03-2022,01:25,Theft,Residential Area,39.364414,-88.457879,Friday,Rainy,22.2,57,Male,57,Female,Under Investigation
+372,03-05-2023,03:09,Theft,Suburb,39.983999,-108.81481,Wednesday,Clear,28.1,31,Female,67,Male,Unsolved
+373,25-11-2023,09:29,Fraud,Suburb,36.348018,-104.11357,Saturday,Snowy,17,38,Male,40,Male,Arrested
+374,21-08-2022,18:47,Robbery,Downtown,37.470506,-81.065392,Sunday,Rainy,34.3,57,Female,72,Male,Under Investigation
+375,22-02-2023,23:16,Robbery,Industrial Zone,35.573107,-102.70554,Wednesday,Snowy,32.2,40,Male,72,Female,Unsolved
+376,03-01-2023,09:47,Theft,Residential Area,36.093811,-83.30601,Tuesday,Clear,30.9,42,Male,76,Female,Unsolved
+377,04-01-2023,05:33,Assault,Downtown,37.767981,-104.71883,Wednesday,Rainy,10.6,40,Male,73,Male,Under Investigation
+378,21-01-2022,09:30,Assault,Mall,37.79566,-103.918932,Friday,Rainy,3.8,56,Female,49,Female,Under Investigation
+379,05-06-2022,09:48,Vandalism,Industrial Zone,39.249048,-83.517187,Sunday,Snowy,11,36,Male,36,Male,Arrested
+380,26-02-2022,22:28,Theft,Industrial Zone,39.300639,-113.408405,Saturday,Cloudy,19.1,27,Female,75,Female,Under Investigation
+381,15-02-2022,19:13,Fraud,Suburb,37.564238,-94.892535,Tuesday,Foggy,0.7,20,Male,54,Female,Under Investigation
+382,04-09-2023,01:18,Theft,Industrial Zone,35.554852,-89.412557,Monday,Snowy,3.2,19,Female,35,Male,Arrested
+383,14-12-2022,17:15,Homicide,Park,35.902658,-100.096112,Wednesday,Rainy,1.8,39,Female,21,Male,Unsolved
+384,10-05-2022,20:02,Homicide,Industrial Zone,37.058523,-114.017235,Tuesday,Clear,11.6,60,Male,79,Female,Unsolved
+385,21-12-2023,14:30,Robbery,Downtown,39.267944,-114.440233,Thursday,Foggy,-3.8,20,Female,44,Male,Under Investigation
+386,29-03-2023,22:58,Assault,Suburb,36.562725,-111.25312,Wednesday,Cloudy,25.9,35,Male,45,Male,Under Investigation
+387,01-03-2023,23:56,Fraud,Park,34.999152,-83.836708,Wednesday,Cloudy,-1,20,Female,57,Female,Unsolved
+388,02-04-2022,02:58,Assault,Industrial Zone,36.077912,-91.878445,Saturday,Snowy,-1.1,29,Male,40,Female,Arrested
+389,28-09-2023,13:00,Fraud,Mall,39.065736,-100.968946,Thursday,Cloudy,2.6,54,Female,31,Female,Unsolved
+390,10-06-2023,21:33,Robbery,Downtown,38.838586,-81.722042,Saturday,Foggy,-2.5,29,Female,37,Female,Arrested
+391,13-12-2023,17:08,Burglary,Highway,39.405572,-107.994195,Wednesday,Snowy,4,45,Female,10,Male,Arrested
+392,04-11-2023,02:43,Homicide,Highway,35.818129,-93.661766,Saturday,Foggy,17.9,41,Female,31,Female,Under Investigation
+393,19-11-2023,10:50,Theft,Residential Area,36.860529,-106.939036,Sunday,Clear,33.3,55,Male,19,Male,Arrested
+394,28-12-2023,02:20,Assault,Highway,36.698883,-104.292063,Thursday,Rainy,20.1,44,Female,45,Male,Arrested
+395,19-07-2022,11:52,Assault,Downtown,35.698787,-111.193069,Tuesday,Rainy,5.9,41,Male,62,Male,Under Investigation
+396,17-06-2022,01:34,Homicide,Industrial Zone,35.831095,-103.13522,Friday,Cloudy,21,49,Female,21,Male,Arrested
+397,18-02-2022,23:27,Robbery,Mall,34.653203,-80.647366,Friday,Rainy,12.2,42,Male,30,Female,Arrested
+398,14-06-2022,08:59,Robbery,Industrial Zone,38.919832,-107.752249,Tuesday,Clear,-1.3,23,Male,67,Female,Unsolved
+399,08-02-2022,10:55,Assault,Suburb,39.636394,-95.921571,Tuesday,Rainy,33.1,21,Male,64,Male,Unsolved
+400,25-06-2023,01:22,Homicide,Mall,37.078601,-98.108225,Sunday,Snowy,14.5,21,Female,74,Female,Under Investigation
+401,05-03-2023,10:18,Theft,Park,36.572892,-77.027827,Sunday,Cloudy,3.9,16,Male,13,Male,Arrested
+402,28-11-2022,04:07,Theft,Highway,38.693992,-99.239645,Monday,Cloudy,16.8,24,Male,17,Female,Arrested
+403,31-08-2022,12:29,Fraud,Industrial Zone,34.840588,-96.589694,Wednesday,Cloudy,11.3,18,Female,19,Female,Arrested
+404,11-07-2022,21:26,Theft,Park,35.605936,-97.011728,Monday,Rainy,-2,42,Female,33,Female,Arrested
+405,27-09-2022,21:14,Theft,Suburb,39.82656,-75.039075,Tuesday,Clear,2.5,39,Female,62,Female,Unsolved
+406,20-07-2023,16:56,Robbery,Residential Area,37.760128,-106.22983,Thursday,Rainy,27.3,32,Female,22,Male,Under Investigation
+407,07-12-2022,02:01,Burglary,Mall,36.646264,-93.090043,Wednesday,Cloudy,12.4,30,Male,72,Female,Under Investigation
+408,26-02-2023,14:46,Fraud,Park,39.601739,-105.641823,Sunday,Foggy,32.3,27,Male,12,Male,Under Investigation
+409,03-09-2023,19:33,Robbery,Downtown,39.547694,-114.867286,Sunday,Foggy,23.5,49,Female,15,Male,Unsolved
+410,13-04-2022,05:56,Theft,Highway,35.312301,-92.358908,Wednesday,Clear,11.5,35,Male,20,Female,Arrested
+411,22-05-2022,07:35,Fraud,Suburb,37.975894,-104.825154,Sunday,Clear,18.1,21,Male,67,Male,Under Investigation
+412,19-01-2023,06:41,Theft,Downtown,37.91801,-104.809339,Thursday,Clear,25.5,42,Male,49,Female,Under Investigation
+413,16-02-2022,22:26,Drug Offense,Downtown,35.155058,-106.306612,Wednesday,Rainy,-1.4,23,Female,56,Female,Unsolved
+414,26-04-2023,06:19,Homicide,Downtown,35.788336,-88.345066,Wednesday,Cloudy,-0.5,35,Female,30,Female,Unsolved
+415,16-02-2022,18:37,Burglary,Residential Area,36.684854,-87.91528,Wednesday,Foggy,11.4,24,Female,22,Male,Under Investigation
+416,06-11-2023,04:41,Theft,Residential Area,37.330525,-110.976348,Monday,Snowy,22.7,42,Male,25,Male,Unsolved
+417,06-09-2023,11:18,Burglary,Residential Area,39.933617,-101.333676,Wednesday,Cloudy,4.1,55,Female,70,Male,Unsolved
+418,15-10-2022,09:41,Vandalism,Highway,35.322064,-81.426927,Saturday,Rainy,8.3,25,Male,30,Female,Under Investigation
+419,03-10-2023,21:01,Homicide,Industrial Zone,36.901248,-83.200361,Tuesday,Cloudy,24.5,49,Female,71,Male,Arrested
+420,11-08-2023,13:53,Theft,Mall,35.374736,-103.187575,Friday,Rainy,24.8,40,Female,57,Female,Under Investigation
+421,27-01-2023,22:38,Burglary,Industrial Zone,34.904966,-111.553674,Friday,Snowy,18.2,26,Female,42,Female,Under Investigation
+422,05-06-2023,15:12,Burglary,Suburb,39.639942,-105.283801,Monday,Rainy,13.2,28,Male,59,Female,Arrested
+423,19-02-2023,00:25,Drug Offense,Downtown,38.148085,-85.294452,Sunday,Cloudy,14,47,Female,41,Female,Unsolved
+424,30-11-2022,01:39,Vandalism,Highway,39.870539,-94.81007,Wednesday,Foggy,11.4,26,Male,58,Female,Arrested
+425,14-08-2022,15:49,Vandalism,Highway,37.835747,-87.510225,Sunday,Cloudy,27.1,46,Female,61,Female,Arrested
+426,14-02-2023,14:37,Robbery,Highway,37.202817,-76.481175,Tuesday,Clear,-1.9,41,Male,11,Female,Unsolved
+427,03-12-2022,08:51,Assault,Park,38.049323,-107.360163,Saturday,Clear,-4,55,Male,19,Female,Unsolved
+428,24-10-2022,03:40,Vandalism,Downtown,39.511602,-112.091307,Monday,Cloudy,29,52,Female,45,Male,Under Investigation
+429,04-12-2023,23:47,Theft,Mall,37.596279,-113.06425,Monday,Clear,13.5,59,Female,69,Female,Arrested
+430,04-07-2022,20:39,Fraud,Industrial Zone,39.002031,-90.662161,Monday,Foggy,3.2,49,Male,15,Male,Arrested
+431,16-12-2022,10:29,Robbery,Suburb,39.543449,-107.406154,Friday,Clear,6.1,18,Female,52,Female,Arrested
+432,24-02-2022,07:01,Fraud,Suburb,38.684625,-84.193175,Thursday,Clear,31.6,54,Male,43,Male,Under Investigation
+433,14-07-2022,10:51,Homicide,Downtown,34.855245,-108.56471,Thursday,Snowy,24,47,Female,79,Male,Arrested
+434,05-02-2023,18:41,Vandalism,Park,36.328356,-100.064583,Sunday,Rainy,31.3,33,Male,21,Female,Arrested
+435,20-07-2023,08:23,Assault,Suburb,34.704629,-104.747984,Thursday,Clear,1,44,Male,15,Female,Arrested
+436,07-10-2023,11:09,Vandalism,Mall,38.618754,-82.563911,Saturday,Clear,-4.6,34,Female,19,Male,Arrested
+437,24-01-2022,00:00,Vandalism,Park,39.359096,-95.645911,Monday,Cloudy,18.3,19,Male,43,Female,Unsolved
+438,01-12-2022,08:20,Robbery,Highway,36.448359,-79.008125,Thursday,Foggy,19.9,37,Male,67,Female,Under Investigation
+439,18-10-2022,09:49,Burglary,Industrial Zone,38.048528,-108.983013,Tuesday,Cloudy,22.8,57,Male,27,Male,Under Investigation
+440,02-01-2023,22:10,Fraud,Downtown,34.544738,-113.337279,Monday,Foggy,23.4,54,Male,47,Female,Under Investigation
+441,27-07-2022,04:42,Vandalism,Highway,36.961447,-90.925797,Wednesday,Snowy,6.1,20,Male,40,Male,Under Investigation
+442,09-08-2022,05:33,Fraud,Park,37.767952,-84.946206,Tuesday,Clear,-3.4,54,Male,23,Female,Unsolved
+443,01-07-2022,14:03,Vandalism,Residential Area,35.157197,-83.784843,Friday,Foggy,17.3,36,Female,57,Male,Unsolved
+444,04-07-2022,17:43,Assault,Highway,38.837314,-85.145128,Monday,Foggy,14.7,32,Female,30,Male,Under Investigation
+445,12-08-2022,16:12,Burglary,Highway,35.698735,-100.560985,Friday,Snowy,31.2,45,Male,71,Female,Unsolved
+446,28-05-2022,19:58,Homicide,Industrial Zone,38.534094,-94.771622,Saturday,Rainy,4.7,26,Male,75,Male,Under Investigation
+447,17-12-2022,17:46,Robbery,Park,35.732059,-96.998478,Saturday,Clear,17.1,35,Female,14,Female,Under Investigation
+448,11-02-2022,13:14,Burglary,Suburb,34.770362,-100.162396,Friday,Foggy,28,54,Female,34,Female,Arrested
+449,22-10-2023,06:40,Homicide,Downtown,36.352841,-91.547779,Sunday,Cloudy,8.1,33,Male,15,Male,Under Investigation
+450,18-10-2022,13:19,Robbery,Park,39.051971,-80.959443,Tuesday,Cloudy,28.2,49,Male,54,Male,Unsolved
+451,01-10-2022,10:20,Assault,Mall,36.440225,-87.534166,Saturday,Cloudy,22.9,45,Female,28,Female,Arrested
+452,20-05-2022,17:30,Fraud,Downtown,39.929539,-101.568343,Friday,Rainy,20.1,16,Male,36,Male,Under Investigation
+453,14-06-2022,13:43,Fraud,Mall,37.292583,-102.612434,Tuesday,Clear,8.5,23,Female,25,Male,Under Investigation
+454,22-11-2022,00:36,Drug Offense,Suburb,34.121213,-114.785317,Tuesday,Snowy,-4.7,28,Male,21,Female,Under Investigation
+455,08-01-2023,12:42,Assault,Industrial Zone,38.406834,-82.130796,Sunday,Foggy,17.3,50,Male,50,Female,Arrested
+456,27-11-2022,14:37,Fraud,Suburb,39.8765,-83.978522,Sunday,Snowy,23.5,47,Male,45,Male,Under Investigation
+457,01-12-2023,16:35,Homicide,Downtown,35.256879,-76.711071,Friday,Cloudy,-2.5,20,Male,69,Male,Under Investigation
+458,13-07-2023,17:20,Theft,Highway,36.16337,-76.012549,Thursday,Clear,9,51,Male,71,Female,Arrested
+459,27-11-2023,14:55,Theft,Mall,35.255036,-100.991612,Monday,Clear,8.7,40,Male,53,Female,Under Investigation
+460,26-05-2023,14:03,Homicide,Residential Area,35.719737,-98.796611,Friday,Clear,15.3,26,Female,39,Female,Under Investigation
+461,13-11-2023,12:55,Vandalism,Residential Area,34.528016,-101.613207,Monday,Cloudy,34.8,35,Male,15,Male,Under Investigation
+462,05-07-2023,13:40,Assault,Industrial Zone,36.757586,-106.04346,Wednesday,Rainy,17.3,52,Female,34,Female,Unsolved
+463,21-07-2022,12:25,Drug Offense,Highway,38.654278,-91.052403,Thursday,Cloudy,-3.5,51,Female,52,Female,Unsolved
+464,01-10-2023,15:47,Burglary,Suburb,35.629597,-96.344448,Sunday,Cloudy,1,26,Male,10,Male,Under Investigation
+465,05-06-2022,14:40,Burglary,Residential Area,38.539556,-90.139127,Sunday,Rainy,16.1,35,Male,10,Male,Unsolved
+466,27-10-2022,12:41,Fraud,Mall,37.950237,-99.264025,Thursday,Rainy,27.7,48,Female,27,Male,Arrested
+467,10-06-2023,15:18,Robbery,Suburb,37.049811,-104.173968,Saturday,Snowy,0,50,Male,52,Female,Under Investigation
+468,11-09-2023,22:25,Theft,Industrial Zone,36.41531,-94.09686,Monday,Foggy,35,60,Female,59,Female,Under Investigation
+469,22-01-2023,01:40,Burglary,Mall,38.890802,-82.023892,Sunday,Cloudy,21.8,42,Female,54,Male,Under Investigation
+470,28-02-2023,03:46,Vandalism,Mall,38.629038,-91.08963,Tuesday,Rainy,18.3,47,Female,36,Male,Unsolved
+471,11-07-2023,03:00,Assault,Park,38.26451,-102.181581,Tuesday,Snowy,13.4,56,Female,55,Male,Arrested
+472,04-09-2023,19:16,Burglary,Downtown,35.23051,-84.692794,Monday,Foggy,15.1,34,Female,13,Male,Unsolved
+473,02-07-2023,22:33,Burglary,Park,38.425158,-105.779201,Sunday,Clear,16.3,60,Female,16,Female,Arrested
+474,21-02-2023,00:05,Robbery,Industrial Zone,39.366252,-86.306586,Tuesday,Snowy,14.2,33,Female,49,Male,Arrested
+475,18-01-2023,17:05,Burglary,Park,36.341131,-111.893594,Wednesday,Clear,21.3,17,Female,79,Male,Arrested
+476,14-10-2023,09:19,Homicide,Suburb,39.693353,-96.5368,Saturday,Cloudy,2.2,47,Male,65,Female,Arrested
+477,23-05-2023,03:53,Vandalism,Downtown,38.186636,-97.554548,Tuesday,Clear,9.2,28,Male,15,Male,Arrested
+478,12-09-2022,00:21,Assault,Suburb,36.512452,-75.955455,Monday,Foggy,12.8,41,Male,35,Female,Arrested
+479,27-07-2022,23:16,Vandalism,Industrial Zone,37.477549,-95.58051,Wednesday,Snowy,23.9,22,Male,31,Female,Arrested
+480,28-01-2022,11:11,Robbery,Industrial Zone,35.450745,-101.521125,Friday,Rainy,5.1,40,Female,53,Female,Unsolved
+481,31-08-2022,05:37,Drug Offense,Suburb,36.820147,-104.691688,Wednesday,Clear,34,58,Female,53,Female,Unsolved
+482,29-11-2023,21:42,Vandalism,Highway,35.419822,-89.349639,Wednesday,Cloudy,31.6,59,Male,14,Male,Under Investigation
+483,10-10-2023,13:11,Robbery,Suburb,39.906123,-107.068464,Tuesday,Cloudy,23.1,29,Female,54,Male,Arrested
+484,20-08-2022,16:23,Burglary,Park,37.958903,-75.423499,Saturday,Cloudy,33.4,49,Male,12,Male,Unsolved
+485,03-12-2022,08:55,Burglary,Residential Area,35.554111,-104.938728,Saturday,Clear,16.5,28,Female,21,Female,Arrested
+486,24-05-2023,00:13,Theft,Highway,35.369789,-102.189108,Wednesday,Snowy,34.7,31,Male,11,Male,Under Investigation
+487,04-01-2022,16:11,Robbery,Residential Area,35.543962,-96.774495,Tuesday,Rainy,15.5,29,Female,38,Female,Under Investigation
+488,21-08-2023,17:52,Fraud,Highway,36.287495,-90.849132,Monday,Foggy,20.7,44,Male,64,Female,Arrested
+489,29-05-2023,18:41,Theft,Industrial Zone,37.263355,-91.498351,Monday,Foggy,21.6,43,Female,17,Female,Arrested
+490,31-01-2023,13:47,Burglary,Industrial Zone,38.319575,-75.743777,Tuesday,Rainy,20.7,30,Male,64,Male,Under Investigation
+491,21-09-2023,00:42,Burglary,Downtown,35.037129,-87.167406,Thursday,Clear,9.4,48,Female,27,Male,Unsolved
+492,29-03-2022,12:10,Robbery,Suburb,38.621344,-116.712288,Tuesday,Rainy,-4.8,22,Female,27,Female,Unsolved
+493,27-08-2023,20:57,Theft,Residential Area,38.370859,-82.77175,Sunday,Rainy,34.9,45,Male,15,Female,Under Investigation
+494,01-03-2023,06:40,Assault,Highway,38.011001,-103.951353,Wednesday,Clear,12.7,43,Female,23,Female,Arrested
+495,01-10-2023,19:25,Robbery,Residential Area,37.883083,-112.658931,Sunday,Clear,19.1,47,Male,35,Male,Unsolved
+496,04-03-2023,05:14,Theft,Suburb,39.380898,-115.458038,Saturday,Cloudy,17.8,28,Female,15,Female,Under Investigation
+497,02-09-2023,19:23,Homicide,Park,36.583522,-77.86255,Saturday,Rainy,10.8,28,Female,26,Male,Unsolved
+498,26-03-2023,04:27,Robbery,Park,38.866623,-85.331665,Sunday,Foggy,-3.4,33,Female,25,Female,Arrested
+499,09-12-2022,09:11,Assault,Park,34.325856,-80.866361,Friday,Snowy,4.4,33,Female,15,Male,Arrested
+500,18-04-2022,08:55,Vandalism,Downtown,36.624161,-77.983694,Monday,Rainy,8.2,16,Female,17,Female,Unsolved
+501,29-09-2022,20:12,Homicide,Industrial Zone,38.435055,-106.349761,Thursday,Foggy,10.8,39,Male,13,Female,Arrested
+502,02-07-2022,21:10,Homicide,Mall,37.56371,-75.404706,Saturday,Foggy,20.7,56,Male,22,Male,Arrested
+503,25-01-2022,17:29,Vandalism,Industrial Zone,39.756664,-87.883986,Tuesday,Rainy,25.4,22,Female,27,Male,Under Investigation
+504,25-06-2022,13:20,Theft,Suburb,39.153909,-116.105177,Saturday,Snowy,16.6,57,Female,28,Female,Unsolved
+505,09-07-2022,04:40,Vandalism,Highway,36.802904,-95.735213,Saturday,Cloudy,30.2,44,Male,62,Male,Unsolved
+506,25-06-2023,13:04,Homicide,Industrial Zone,34.681936,-100.829822,Sunday,Rainy,23.6,52,Male,64,Female,Arrested
+507,04-11-2023,15:54,Fraud,Suburb,37.377315,-110.993915,Saturday,Snowy,20.6,36,Female,49,Female,Unsolved
+508,23-11-2023,02:58,Assault,Highway,36.706636,-93.777548,Thursday,Cloudy,22.5,24,Male,46,Male,Arrested
+509,12-01-2023,03:18,Fraud,Mall,36.222776,-79.496852,Thursday,Snowy,11.7,39,Female,50,Male,Unsolved
+510,06-03-2022,09:37,Assault,Suburb,34.469298,-107.438206,Sunday,Rainy,22.7,55,Female,40,Female,Under Investigation
+511,21-01-2022,07:30,Theft,Suburb,38.104175,-81.652356,Friday,Snowy,24.1,42,Male,75,Female,Unsolved
+512,11-12-2022,10:32,Burglary,Downtown,38.139363,-75.962803,Sunday,Rainy,22.9,48,Female,52,Female,Under Investigation
+513,01-09-2022,13:22,Drug Offense,Highway,37.593313,-116.964431,Thursday,Clear,26.5,23,Female,54,Male,Under Investigation
+514,09-11-2022,23:36,Theft,Mall,34.055205,-108.257498,Wednesday,Rainy,3.9,25,Male,73,Female,Arrested
+515,09-09-2023,03:31,Burglary,Mall,37.37904,-87.507416,Saturday,Foggy,13.1,22,Male,70,Male,Arrested
+516,01-10-2023,03:41,Burglary,Suburb,35.087068,-79.633223,Sunday,Foggy,24.1,47,Female,17,Female,Under Investigation
+517,30-03-2022,03:22,Drug Offense,Park,38.510336,-107.61397,Wednesday,Cloudy,32.7,38,Female,32,Male,Under Investigation
+518,22-10-2022,18:06,Fraud,Suburb,37.955006,-101.762134,Saturday,Foggy,9.8,41,Male,78,Male,Under Investigation
+519,13-06-2022,00:01,Assault,Mall,39.882932,-91.240226,Monday,Cloudy,26.6,55,Female,27,Male,Arrested
+520,07-11-2023,02:15,Drug Offense,Downtown,36.143266,-106.833565,Tuesday,Foggy,13.6,23,Male,55,Male,Arrested
+521,13-09-2022,05:54,Theft,Mall,35.667824,-99.669931,Tuesday,Foggy,13.7,56,Female,67,Female,Under Investigation
+522,03-12-2023,10:51,Burglary,Residential Area,34.859085,-99.173564,Sunday,Cloudy,17.3,42,Female,69,Female,Arrested
+523,26-04-2022,19:41,Theft,Suburb,38.253407,-89.343369,Tuesday,Snowy,21.7,59,Male,40,Male,Unsolved
+524,06-11-2022,09:57,Homicide,Park,34.029661,-94.97448,Sunday,Cloudy,22.2,39,Female,66,Female,Arrested
+525,10-09-2022,22:43,Theft,Highway,37.113544,-77.202352,Saturday,Foggy,25.4,16,Male,21,Female,Under Investigation
+526,07-11-2022,21:01,Homicide,Residential Area,38.503301,-112.584781,Monday,Foggy,-2.2,33,Male,33,Female,Under Investigation
+527,18-02-2022,11:40,Assault,Highway,35.265633,-85.858135,Friday,Rainy,14.6,19,Male,68,Female,Under Investigation
+528,23-06-2023,12:43,Vandalism,Suburb,38.987728,-85.697638,Friday,Rainy,32.5,16,Male,71,Female,Under Investigation
+529,03-12-2022,05:15,Assault,Highway,35.163282,-113.919507,Saturday,Foggy,26.3,25,Male,64,Female,Arrested
+530,02-08-2023,08:54,Fraud,Suburb,38.510558,-108.575432,Wednesday,Clear,30.4,23,Female,38,Female,Under Investigation
+531,05-05-2022,05:03,Burglary,Industrial Zone,35.762132,-101.961789,Thursday,Snowy,33.4,46,Female,12,Male,Arrested
+532,27-10-2023,13:31,Burglary,Downtown,39.893176,-105.863432,Friday,Foggy,23.5,42,Male,40,Male,Under Investigation
+533,08-10-2022,05:54,Drug Offense,Highway,38.25085,-101.715443,Saturday,Clear,23.4,25,Male,45,Male,Under Investigation
+534,29-07-2022,11:33,Fraud,Park,36.636072,-116.572149,Friday,Clear,26.6,46,Male,25,Male,Arrested
+535,06-08-2023,03:45,Burglary,Downtown,35.050866,-95.045025,Sunday,Cloudy,18,51,Female,58,Male,Arrested
+536,25-03-2022,11:25,Burglary,Suburb,37.294661,-98.488231,Friday,Snowy,21.3,50,Female,55,Female,Under Investigation
+537,29-03-2023,10:32,Burglary,Mall,37.296543,-87.15361,Wednesday,Snowy,27.8,45,Male,67,Female,Unsolved
+538,25-05-2023,22:36,Fraud,Industrial Zone,39.119749,-85.043204,Thursday,Clear,2.1,17,Male,70,Female,Unsolved
+539,01-06-2023,14:40,Drug Offense,Downtown,38.835397,-100.528372,Thursday,Cloudy,14.4,55,Female,77,Female,Arrested
+540,07-11-2023,08:00,Fraud,Mall,38.315117,-86.142906,Tuesday,Foggy,-4.2,27,Male,75,Female,Arrested
+541,25-02-2022,14:11,Assault,Residential Area,36.837239,-84.386833,Friday,Cloudy,22.6,51,Male,56,Female,Arrested
+542,19-08-2023,09:15,Homicide,Residential Area,37.275402,-82.173409,Saturday,Snowy,21.4,34,Female,19,Male,Arrested
+543,18-02-2023,12:15,Homicide,Mall,34.48717,-81.544463,Saturday,Foggy,1.5,31,Male,57,Male,Arrested
+544,15-05-2023,07:57,Robbery,Industrial Zone,38.428504,-97.081311,Monday,Snowy,20.7,29,Male,58,Female,Under Investigation
+545,06-02-2022,09:10,Burglary,Suburb,39.658921,-77.905986,Sunday,Clear,15.1,17,Male,26,Female,Arrested
+546,02-02-2022,07:21,Robbery,Downtown,34.534265,-102.333369,Wednesday,Rainy,28.3,55,Female,32,Female,Arrested
+547,08-11-2022,12:19,Assault,Highway,39.619028,-80.24743,Tuesday,Cloudy,16.2,20,Male,25,Female,Under Investigation
+548,29-08-2022,05:04,Burglary,Highway,38.777065,-79.851496,Monday,Cloudy,-3.4,30,Female,43,Male,Under Investigation
+549,09-04-2023,09:15,Drug Offense,Highway,36.387049,-116.872525,Sunday,Cloudy,20,19,Male,62,Female,Under Investigation
+550,31-07-2022,14:38,Fraud,Highway,36.587005,-83.336389,Sunday,Clear,27,53,Male,14,Female,Arrested
+551,13-04-2023,03:20,Assault,Downtown,39.764687,-108.323855,Thursday,Foggy,8,58,Female,40,Male,Arrested
+552,12-05-2023,00:10,Robbery,Park,34.387164,-104.974992,Friday,Snowy,26.1,48,Male,33,Female,Unsolved
+553,20-06-2023,02:10,Vandalism,Industrial Zone,37.604739,-83.41195,Tuesday,Clear,21.6,58,Female,66,Male,Under Investigation
+554,04-12-2023,08:09,Theft,Residential Area,37.610679,-98.556664,Monday,Foggy,22.3,23,Female,71,Male,Arrested
+555,28-12-2022,18:32,Homicide,Residential Area,34.491025,-104.215199,Wednesday,Foggy,20.6,60,Female,41,Female,Arrested
+556,04-11-2023,03:08,Fraud,Residential Area,39.444761,-81.054613,Saturday,Clear,7,17,Male,14,Male,Arrested
+557,07-05-2023,13:20,Vandalism,Park,36.929311,-78.060498,Sunday,Rainy,11.4,35,Male,43,Female,Arrested
+558,26-11-2022,07:21,Drug Offense,Mall,37.857667,-82.676745,Saturday,Clear,22.3,21,Male,19,Male,Arrested
+559,22-12-2023,23:51,Assault,Highway,34.380448,-107.695905,Friday,Cloudy,-2.7,19,Female,68,Female,Unsolved
+560,28-09-2023,23:29,Fraud,Park,34.669902,-78.463451,Thursday,Snowy,4.7,51,Female,41,Female,Arrested
+561,10-02-2023,05:10,Theft,Park,34.815857,-108.159116,Friday,Clear,6.3,58,Female,10,Male,Under Investigation
+562,03-12-2022,15:53,Homicide,Park,37.990188,-101.73918,Saturday,Rainy,2,41,Male,75,Female,Unsolved
+563,15-06-2022,12:23,Vandalism,Highway,36.308161,-92.19152,Wednesday,Cloudy,2.6,46,Male,72,Female,Under Investigation
+564,13-06-2023,10:43,Fraud,Suburb,39.517907,-84.39932,Tuesday,Foggy,9,48,Male,13,Male,Arrested
+565,03-07-2022,02:35,Homicide,Residential Area,34.496466,-77.235609,Sunday,Foggy,7.9,34,Female,39,Male,Under Investigation
+566,18-11-2023,05:14,Drug Offense,Suburb,37.204204,-113.920194,Saturday,Snowy,26.8,51,Male,39,Male,Arrested
+567,17-01-2023,19:47,Robbery,Highway,34.143065,-93.395512,Tuesday,Snowy,16.4,52,Female,76,Male,Arrested
+568,18-08-2023,21:43,Homicide,Residential Area,38.183624,-84.385529,Friday,Clear,15.5,26,Female,15,Female,Arrested
+569,14-06-2023,08:29,Assault,Residential Area,35.139239,-92.321601,Wednesday,Foggy,24.2,22,Male,69,Female,Unsolved
+570,17-08-2022,09:48,Drug Offense,Downtown,39.747563,-96.139212,Wednesday,Rainy,18.1,57,Female,73,Female,Under Investigation
+571,01-03-2022,21:10,Theft,Park,38.321251,-86.864574,Tuesday,Cloudy,15,45,Female,36,Male,Arrested
+572,12-07-2022,06:04,Vandalism,Highway,38.292641,-109.779223,Tuesday,Cloudy,-3.7,36,Female,69,Female,Arrested
+573,09-09-2023,03:29,Robbery,Downtown,37.336534,-78.833102,Saturday,Clear,3.3,55,Male,53,Male,Unsolved
+574,03-01-2023,13:52,Vandalism,Downtown,35.564951,-76.153212,Tuesday,Foggy,11.4,28,Female,54,Male,Under Investigation
+575,08-09-2023,14:41,Robbery,Highway,39.901767,-93.275225,Friday,Clear,-2.4,41,Female,21,Female,Arrested
+576,24-12-2022,04:37,Fraud,Industrial Zone,35.870557,-78.095091,Saturday,Foggy,27.2,60,Male,55,Female,Under Investigation
+577,03-01-2022,20:46,Fraud,Industrial Zone,35.107472,-115.442505,Monday,Clear,34.4,50,Female,24,Female,Unsolved
+578,13-02-2023,01:24,Drug Offense,Mall,38.871514,-98.480684,Monday,Snowy,18.6,58,Female,22,Male,Under Investigation
+579,02-02-2022,14:36,Homicide,Mall,38.531484,-75.876565,Wednesday,Rainy,32.9,59,Male,72,Male,Under Investigation
+580,03-09-2023,04:07,Burglary,Mall,37.730516,-88.929094,Sunday,Cloudy,15.1,58,Male,41,Female,Arrested
+581,15-01-2022,18:08,Assault,Downtown,39.573257,-115.268269,Saturday,Clear,-0.1,57,Male,20,Female,Arrested
+582,02-12-2022,17:43,Vandalism,Highway,37.519554,-88.547698,Friday,Cloudy,15.5,45,Female,46,Male,Unsolved
+583,31-07-2022,17:34,Fraud,Mall,34.133981,-97.70847,Sunday,Cloudy,9.9,45,Female,46,Female,Under Investigation
+584,14-07-2023,07:36,Assault,Downtown,37.402036,-86.096209,Friday,Foggy,15.1,42,Female,74,Male,Unsolved
+585,12-12-2022,12:49,Theft,Mall,34.344569,-92.954177,Monday,Snowy,13.4,50,Female,73,Female,Under Investigation
+586,11-07-2023,15:30,Assault,Downtown,34.711132,-98.407893,Tuesday,Cloudy,14,23,Female,41,Male,Unsolved
+587,02-10-2022,12:31,Fraud,Highway,34.562069,-81.092286,Sunday,Foggy,8,45,Female,60,Male,Under Investigation
+588,24-11-2022,09:07,Vandalism,Mall,35.694884,-93.0389,Thursday,Rainy,13.6,52,Male,50,Female,Arrested
+589,22-11-2022,16:00,Vandalism,Highway,38.104544,-81.507359,Tuesday,Clear,6.2,55,Female,68,Female,Arrested
+590,13-05-2022,10:32,Assault,Highway,37.13257,-80.911091,Friday,Foggy,23.9,29,Male,30,Male,Under Investigation
+591,15-06-2022,23:12,Fraud,Residential Area,36.640005,-75.678645,Wednesday,Snowy,23.4,38,Female,67,Male,Under Investigation
+592,18-06-2022,08:49,Theft,Suburb,38.415622,-83.012788,Saturday,Cloudy,34.1,29,Female,68,Male,Arrested
+593,13-06-2023,10:37,Drug Offense,Industrial Zone,38.106146,-79.232155,Tuesday,Clear,18.2,52,Female,73,Male,Unsolved
+594,10-05-2023,18:42,Theft,Park,36.753747,-82.468313,Wednesday,Snowy,18.8,45,Male,70,Male,Under Investigation
+595,10-09-2023,06:22,Fraud,Highway,39.272296,-111.06979,Sunday,Snowy,25.3,45,Male,58,Female,Arrested
+596,21-05-2022,18:23,Fraud,Downtown,35.586675,-102.528609,Saturday,Clear,0.1,34,Female,22,Female,Unsolved
+597,05-10-2022,20:23,Theft,Park,39.122105,-106.386365,Wednesday,Clear,22.6,46,Female,27,Male,Arrested
+598,12-05-2022,06:41,Drug Offense,Highway,35.341654,-87.022186,Thursday,Clear,5.7,17,Male,64,Female,Unsolved
+599,30-08-2023,13:29,Assault,Mall,39.711829,-107.807696,Wednesday,Cloudy,23.5,19,Male,25,Male,Unsolved
+600,05-12-2022,21:56,Homicide,Residential Area,39.981537,-113.309998,Monday,Foggy,11.6,18,Female,28,Male,Arrested
+601,11-01-2022,22:02,Burglary,Residential Area,37.750235,-88.454306,Tuesday,Snowy,8.8,55,Female,22,Female,Under Investigation
+602,13-07-2023,09:41,Fraud,Downtown,34.825789,-86.487966,Thursday,Snowy,7.8,48,Female,58,Female,Under Investigation
+603,26-11-2023,22:15,Homicide,Residential Area,39.316126,-84.605496,Sunday,Clear,-1.4,43,Female,39,Female,Under Investigation
+604,22-02-2022,01:39,Assault,Downtown,35.981716,-99.823534,Tuesday,Rainy,6.8,56,Female,22,Female,Unsolved
+605,18-04-2023,22:29,Vandalism,Mall,37.165316,-106.523186,Tuesday,Snowy,-1,46,Female,40,Female,Arrested
+606,18-06-2023,19:22,Fraud,Downtown,36.238939,-99.235916,Sunday,Rainy,9.3,29,Male,44,Male,Unsolved
+607,06-04-2023,15:22,Homicide,Park,39.299387,-101.150063,Thursday,Clear,11.6,59,Male,15,Male,Unsolved
+608,08-06-2023,08:40,Drug Offense,Industrial Zone,35.667056,-92.958474,Thursday,Snowy,18.5,48,Male,48,Female,Unsolved
+609,18-07-2022,14:37,Theft,Suburb,37.994062,-87.765844,Monday,Clear,4.4,29,Male,20,Male,Arrested
+610,01-08-2022,16:23,Vandalism,Downtown,35.225977,-97.560314,Monday,Cloudy,0,51,Male,14,Female,Unsolved
+611,28-04-2022,01:39,Burglary,Mall,34.330129,-106.133473,Thursday,Clear,20.8,16,Female,23,Male,Under Investigation
+612,06-04-2023,06:42,Homicide,Park,36.659825,-98.377931,Thursday,Snowy,25.1,26,Female,65,Female,Arrested
+613,16-02-2023,06:14,Homicide,Mall,39.263988,-90.553344,Thursday,Snowy,-1.6,44,Female,79,Female,Arrested
+614,15-11-2023,16:31,Fraud,Suburb,39.661902,-102.308981,Wednesday,Snowy,24.8,34,Female,42,Male,Arrested
+615,15-06-2022,09:18,Theft,Mall,39.069961,-90.402399,Wednesday,Snowy,1,40,Female,46,Female,Unsolved
+616,06-07-2022,04:33,Theft,Industrial Zone,36.764423,-99.185962,Wednesday,Rainy,-2.7,33,Male,67,Female,Unsolved
+617,03-09-2023,18:21,Robbery,Residential Area,37.720561,-90.60754,Sunday,Snowy,9.5,54,Female,18,Male,Arrested
+618,26-09-2023,14:25,Theft,Suburb,37.029087,-81.554167,Tuesday,Snowy,3.4,57,Female,73,Female,Unsolved
+619,17-05-2022,11:13,Robbery,Mall,35.344322,-76.298641,Tuesday,Snowy,-4.4,25,Male,54,Female,Under Investigation
+620,27-06-2022,02:14,Drug Offense,Mall,38.517585,-84.819562,Monday,Cloudy,34.7,20,Male,32,Female,Arrested
+621,26-10-2023,02:11,Drug Offense,Industrial Zone,37.794667,-97.730193,Thursday,Foggy,21.3,33,Male,46,Female,Arrested
+622,23-02-2022,17:01,Homicide,Mall,37.896117,-79.840573,Wednesday,Cloudy,8.7,29,Male,10,Female,Arrested
+623,14-07-2022,23:02,Theft,Mall,37.375391,-78.971429,Thursday,Cloudy,21.6,42,Female,30,Male,Unsolved
+624,27-09-2022,13:45,Robbery,Park,37.168327,-82.403004,Tuesday,Clear,27.2,51,Female,14,Male,Under Investigation
+625,13-07-2023,16:20,Assault,Suburb,34.42394,-109.523303,Thursday,Rainy,30.1,48,Female,22,Male,Arrested
+626,09-09-2022,10:50,Assault,Mall,37.634681,-93.960422,Friday,Cloudy,26.2,52,Male,74,Female,Arrested
+627,10-04-2022,10:59,Fraud,Suburb,36.86216,-98.561114,Sunday,Foggy,20.7,37,Male,16,Female,Under Investigation
+628,27-07-2023,13:38,Vandalism,Suburb,39.960349,-89.916885,Thursday,Rainy,4.4,33,Male,16,Male,Arrested
+629,24-04-2023,09:02,Theft,Residential Area,34.320892,-104.88702,Monday,Rainy,8.2,39,Male,66,Female,Unsolved
+630,28-05-2023,09:28,Vandalism,Suburb,37.958071,-110.819804,Sunday,Foggy,-3.1,54,Female,45,Male,Under Investigation
+631,11-11-2022,14:52,Assault,Suburb,39.880001,-116.611505,Friday,Snowy,17.9,32,Male,57,Male,Unsolved
+632,08-03-2022,11:54,Burglary,Mall,34.541276,-85.325815,Tuesday,Foggy,33.9,37,Male,14,Male,Under Investigation
+633,26-05-2022,19:55,Theft,Highway,38.349111,-102.766014,Thursday,Rainy,33.4,42,Female,59,Female,Unsolved
+634,05-03-2023,06:30,Vandalism,Industrial Zone,35.104162,-95.222268,Sunday,Cloudy,15.8,31,Female,14,Female,Unsolved
+635,06-10-2022,17:15,Drug Offense,Mall,39.021556,-100.328843,Thursday,Rainy,1.3,50,Male,26,Male,Under Investigation
+636,21-10-2023,23:27,Theft,Industrial Zone,39.890779,-106.501192,Saturday,Foggy,0.4,38,Male,28,Male,Unsolved
+637,01-07-2022,05:11,Burglary,Industrial Zone,34.593203,-83.332419,Friday,Snowy,9.6,45,Female,63,Female,Unsolved
+638,25-08-2022,16:18,Fraud,Industrial Zone,37.365106,-103.000693,Thursday,Rainy,20.3,38,Male,60,Male,Arrested
+639,23-11-2023,19:13,Burglary,Downtown,39.539248,-84.839499,Thursday,Snowy,31.1,40,Female,40,Female,Unsolved
+640,16-07-2023,21:13,Burglary,Industrial Zone,34.41649,-110.99718,Sunday,Foggy,2,32,Male,54,Female,Arrested
+641,06-09-2023,14:02,Fraud,Park,37.481851,-105.315228,Wednesday,Cloudy,8,38,Female,79,Female,Arrested
+642,18-04-2022,23:36,Fraud,Highway,39.826544,-117.329363,Monday,Clear,15.9,52,Male,24,Female,Unsolved
+643,11-02-2023,10:41,Homicide,Suburb,37.795916,-75.444176,Saturday,Rainy,16.1,25,Female,69,Male,Arrested
+644,28-07-2022,14:02,Fraud,Industrial Zone,35.468566,-113.83732,Thursday,Cloudy,29.3,16,Male,75,Male,Under Investigation
+645,19-07-2023,21:41,Vandalism,Downtown,34.409109,-114.357146,Wednesday,Foggy,30.4,23,Female,42,Male,Unsolved
+646,11-03-2023,01:46,Homicide,Mall,37.375901,-98.222081,Saturday,Rainy,32.8,52,Male,31,Female,Under Investigation
+647,08-09-2022,03:36,Drug Offense,Suburb,38.545861,-82.558171,Thursday,Clear,9,49,Male,10,Female,Unsolved
+648,21-09-2022,07:09,Vandalism,Residential Area,39.696444,-83.641902,Wednesday,Clear,15.5,44,Male,25,Male,Arrested
+649,13-09-2022,07:53,Homicide,Suburb,39.910688,-117.74331,Tuesday,Clear,14.8,34,Female,64,Female,Unsolved
+650,22-01-2023,11:10,Fraud,Industrial Zone,37.579203,-99.441919,Sunday,Rainy,23.3,24,Female,37,Male,Under Investigation
+651,19-08-2023,23:35,Homicide,Highway,38.472402,-96.75961,Saturday,Snowy,5,20,Female,16,Female,Arrested
+652,01-06-2022,01:58,Theft,Residential Area,37.925302,-76.949019,Wednesday,Cloudy,-3,25,Female,33,Male,Under Investigation
+653,28-08-2022,18:58,Theft,Mall,34.167355,-79.002126,Sunday,Rainy,14.6,32,Female,44,Female,Under Investigation
+654,16-11-2023,21:20,Assault,Highway,34.022287,-101.184468,Thursday,Foggy,19.6,52,Male,25,Male,Arrested
+655,04-04-2023,00:14,Vandalism,Residential Area,39.391062,-114.909675,Tuesday,Foggy,29,51,Female,18,Male,Arrested
+656,10-10-2022,20:51,Robbery,Park,35.524685,-81.064432,Monday,Snowy,1.7,44,Female,36,Male,Unsolved
+657,23-01-2023,21:58,Burglary,Downtown,37.004979,-80.449687,Monday,Foggy,3.8,47,Male,54,Male,Unsolved
+658,13-08-2023,08:09,Assault,Industrial Zone,35.108863,-93.717245,Sunday,Foggy,-2.1,27,Female,23,Female,Arrested
+659,29-09-2022,11:56,Theft,Highway,37.765293,-87.194566,Thursday,Foggy,26.1,29,Male,21,Male,Arrested
+660,06-04-2023,08:02,Drug Offense,Suburb,35.820326,-107.509969,Thursday,Rainy,19.6,23,Male,39,Male,Arrested
+661,09-12-2023,20:51,Vandalism,Mall,35.857084,-77.882838,Saturday,Rainy,28.9,26,Female,50,Male,Arrested
+662,15-06-2022,03:04,Vandalism,Downtown,38.167248,-90.107894,Wednesday,Clear,21.6,47,Female,76,Female,Arrested
+663,13-02-2023,13:21,Burglary,Downtown,36.282336,-105.673776,Monday,Cloudy,26.7,35,Male,69,Male,Arrested
+664,24-10-2023,00:29,Robbery,Downtown,35.367525,-115.136234,Tuesday,Rainy,33,24,Female,78,Male,Unsolved
+665,12-11-2023,02:21,Theft,Industrial Zone,36.725621,-111.642873,Sunday,Clear,32.6,19,Male,13,Male,Under Investigation
+666,29-12-2022,00:03,Drug Offense,Residential Area,38.068025,-101.395204,Thursday,Snowy,20.3,28,Female,50,Female,Unsolved
+667,01-03-2023,16:34,Assault,Residential Area,34.908918,-100.872094,Wednesday,Clear,-3.3,60,Male,63,Female,Under Investigation
+668,01-02-2022,12:41,Drug Offense,Highway,35.477033,-117.484289,Tuesday,Clear,5.3,58,Male,23,Female,Under Investigation
+669,29-05-2022,02:56,Burglary,Highway,37.322209,-79.64411,Sunday,Cloudy,21.5,33,Female,42,Female,Unsolved
+670,05-01-2023,06:28,Vandalism,Residential Area,37.666817,-107.414355,Thursday,Rainy,8.3,60,Female,72,Female,Arrested
+671,01-03-2022,10:43,Vandalism,Suburb,37.415359,-82.124339,Tuesday,Rainy,18.3,29,Female,18,Male,Under Investigation
+672,10-10-2023,08:02,Fraud,Highway,34.594678,-111.391816,Tuesday,Rainy,25.9,52,Male,31,Female,Under Investigation
+673,16-09-2022,22:05,Fraud,Residential Area,35.595766,-105.658065,Friday,Cloudy,21.6,57,Female,60,Male,Arrested
+674,21-12-2023,12:56,Vandalism,Industrial Zone,35.544565,-78.249259,Thursday,Clear,29.8,31,Male,46,Male,Arrested
+675,19-02-2022,14:55,Assault,Industrial Zone,35.552734,-79.5588,Saturday,Cloudy,2.1,54,Female,69,Female,Arrested
+676,09-12-2022,04:27,Vandalism,Industrial Zone,36.376347,-83.545268,Friday,Foggy,3.5,28,Female,78,Female,Under Investigation
+677,18-01-2022,10:36,Theft,Park,37.564082,-106.995132,Tuesday,Rainy,10.6,57,Female,23,Male,Under Investigation
+678,09-05-2023,22:58,Robbery,Residential Area,39.633628,-85.583964,Tuesday,Foggy,-1.9,33,Male,48,Female,Arrested
+679,30-08-2023,02:31,Theft,Suburb,36.174064,-96.088313,Wednesday,Clear,15.7,47,Male,67,Female,Arrested
+680,14-12-2023,22:36,Drug Offense,Mall,34.257783,-115.874934,Thursday,Snowy,16.3,53,Male,50,Female,Under Investigation
+681,10-06-2022,18:50,Vandalism,Suburb,35.294284,-117.953959,Friday,Foggy,16.1,41,Male,52,Female,Unsolved
+682,18-04-2022,19:47,Drug Offense,Highway,35.893408,-89.482827,Monday,Snowy,18.7,31,Male,22,Female,Arrested
+683,05-02-2022,04:11,Assault,Industrial Zone,34.901493,-94.763195,Saturday,Cloudy,17.1,31,Male,60,Male,Under Investigation
+684,24-09-2023,02:20,Fraud,Mall,34.03233,-93.225572,Sunday,Cloudy,20.9,23,Male,38,Female,Under Investigation
+685,09-08-2023,21:33,Homicide,Industrial Zone,38.633247,-105.19347,Wednesday,Snowy,14.7,54,Male,21,Male,Under Investigation
+686,30-08-2022,19:41,Drug Offense,Residential Area,38.592968,-116.222308,Tuesday,Foggy,11.8,48,Male,39,Female,Under Investigation
+687,15-03-2023,10:17,Fraud,Highway,38.145688,-80.604098,Wednesday,Snowy,24.5,49,Female,29,Male,Unsolved
+688,25-11-2022,20:01,Vandalism,Suburb,35.430346,-108.939513,Friday,Rainy,-4.9,49,Female,77,Male,Unsolved
+689,27-02-2022,00:39,Assault,Residential Area,36.078854,-96.743754,Sunday,Snowy,34,21,Female,48,Male,Arrested
+690,15-10-2023,14:11,Burglary,Suburb,36.917235,-109.635255,Sunday,Clear,3,48,Female,64,Male,Under Investigation
+691,04-09-2022,12:48,Homicide,Residential Area,34.52218,-103.427902,Sunday,Foggy,17.6,47,Female,30,Female,Arrested
+692,10-10-2022,13:40,Burglary,Industrial Zone,36.68909,-104.834283,Monday,Clear,29.7,21,Male,57,Male,Unsolved
+693,21-06-2022,08:25,Theft,Industrial Zone,35.933635,-114.429254,Tuesday,Cloudy,4.9,40,Male,53,Female,Arrested
+694,06-07-2023,21:53,Homicide,Industrial Zone,36.85909,-75.974125,Thursday,Rainy,6.8,30,Female,51,Female,Unsolved
+695,20-12-2023,20:49,Drug Offense,Mall,38.668595,-115.611093,Wednesday,Rainy,5.8,23,Female,67,Female,Under Investigation
+696,17-07-2022,15:01,Vandalism,Mall,37.784699,-110.964255,Sunday,Clear,16.9,47,Female,72,Female,Under Investigation
+697,25-07-2022,08:32,Vandalism,Suburb,36.52521,-106.433039,Monday,Rainy,-3.7,31,Male,44,Male,Unsolved
+698,20-01-2022,13:44,Theft,Downtown,37.412598,-96.466166,Thursday,Snowy,5.3,48,Male,12,Male,Under Investigation
+699,11-10-2022,15:26,Homicide,Highway,38.29667,-105.298549,Tuesday,Clear,24.1,55,Female,40,Male,Under Investigation
+700,21-05-2022,21:55,Burglary,Industrial Zone,36.332669,-108.926333,Saturday,Rainy,1.9,39,Female,35,Female,Under Investigation
+701,27-12-2022,08:31,Burglary,Residential Area,36.472218,-100.343343,Tuesday,Foggy,10.8,57,Male,28,Female,Unsolved
+702,14-10-2023,19:45,Drug Offense,Mall,36.806245,-116.457958,Saturday,Clear,31.6,20,Female,22,Female,Arrested
+703,17-12-2022,10:02,Theft,Highway,39.907774,-102.359733,Saturday,Snowy,27.9,57,Female,51,Male,Under Investigation
+704,21-12-2022,12:09,Burglary,Residential Area,37.181781,-113.872224,Wednesday,Cloudy,14.2,17,Male,49,Female,Unsolved
+705,01-08-2022,16:15,Burglary,Highway,37.304751,-77.620179,Monday,Snowy,33.6,38,Female,54,Female,Under Investigation
+706,14-05-2023,21:56,Assault,Residential Area,34.427216,-87.897025,Sunday,Rainy,6.7,24,Female,77,Male,Under Investigation
+707,30-08-2023,16:58,Homicide,Park,35.455771,-76.172893,Wednesday,Snowy,19.3,59,Female,68,Male,Arrested
+708,10-06-2023,23:34,Assault,Mall,36.801723,-95.243787,Saturday,Foggy,19.9,53,Male,22,Male,Unsolved
+709,11-07-2023,04:03,Vandalism,Residential Area,38.414844,-89.260893,Tuesday,Cloudy,4.4,56,Female,48,Male,Unsolved
+710,30-08-2022,12:36,Vandalism,Mall,36.199216,-93.214228,Tuesday,Snowy,17.3,18,Female,78,Male,Under Investigation
+711,25-05-2023,08:17,Theft,Residential Area,34.254088,-107.511344,Thursday,Rainy,17.1,24,Male,14,Male,Under Investigation
+712,23-06-2022,03:19,Theft,Park,34.272591,-83.22961,Thursday,Snowy,7.3,39,Male,80,Female,Unsolved
+713,23-12-2023,13:28,Vandalism,Highway,38.222304,-80.613647,Saturday,Snowy,14.7,52,Male,37,Female,Under Investigation
+714,06-02-2023,08:39,Burglary,Residential Area,34.030559,-87.901623,Monday,Clear,26,24,Male,72,Female,Arrested
+715,17-03-2022,08:58,Robbery,Downtown,39.613549,-108.085506,Thursday,Snowy,13.1,39,Female,20,Female,Under Investigation
+716,11-07-2022,14:29,Theft,Industrial Zone,35.431174,-99.509515,Monday,Rainy,3.4,40,Female,10,Male,Unsolved
+717,02-12-2022,04:57,Vandalism,Downtown,35.821403,-87.677487,Friday,Snowy,17.8,17,Male,65,Male,Arrested
+718,30-05-2022,23:38,Assault,Industrial Zone,34.950715,-79.396789,Monday,Snowy,22.8,40,Male,73,Male,Arrested
+719,22-05-2022,01:05,Homicide,Downtown,39.717159,-96.518947,Sunday,Cloudy,-4.8,39,Male,71,Female,Under Investigation
+720,18-03-2022,17:40,Assault,Park,34.659103,-76.108473,Friday,Clear,32.9,37,Male,26,Female,Unsolved
+721,12-11-2023,13:24,Homicide,Mall,39.944169,-114.128499,Sunday,Cloudy,25.7,40,Male,62,Male,Arrested
+722,04-12-2023,00:04,Assault,Industrial Zone,39.318543,-105.716047,Monday,Rainy,25.3,18,Female,51,Female,Under Investigation
+723,12-02-2023,02:32,Fraud,Suburb,35.830025,-93.243998,Sunday,Rainy,20.8,59,Female,39,Female,Arrested
+724,17-08-2023,09:13,Vandalism,Industrial Zone,35.747851,-101.058535,Thursday,Cloudy,31,49,Female,39,Male,Under Investigation
+725,03-05-2023,14:30,Assault,Downtown,37.569767,-82.581832,Wednesday,Clear,12.8,46,Male,33,Female,Unsolved
+726,20-01-2023,15:59,Assault,Downtown,37.622425,-92.053914,Friday,Rainy,24.2,46,Male,35,Female,Arrested
+727,11-12-2023,00:28,Robbery,Residential Area,38.551133,-103.430779,Monday,Snowy,22,22,Male,15,Female,Unsolved
+728,12-04-2023,19:26,Drug Offense,Highway,39.011326,-77.091376,Wednesday,Clear,33.7,27,Female,69,Male,Arrested
+729,08-06-2023,07:33,Burglary,Highway,35.095579,-77.934149,Thursday,Snowy,8.7,39,Male,64,Female,Arrested
+730,22-06-2023,05:41,Burglary,Residential Area,35.16175,-90.045616,Thursday,Rainy,16.8,28,Male,32,Male,Under Investigation
+731,22-02-2022,05:11,Vandalism,Mall,35.275155,-91.141901,Tuesday,Clear,16.9,42,Female,51,Male,Unsolved
+732,05-12-2022,23:54,Robbery,Residential Area,37.12318,-85.250688,Monday,Snowy,8,32,Male,71,Male,Under Investigation
+733,31-12-2022,05:57,Homicide,Residential Area,36.589229,-85.491676,Saturday,Rainy,22.9,58,Male,42,Male,Arrested
+734,21-06-2023,20:05,Theft,Suburb,38.55092,-81.61307,Wednesday,Foggy,33.5,20,Female,12,Male,Arrested
+735,20-04-2023,20:31,Burglary,Downtown,36.395229,-115.880815,Thursday,Snowy,2.9,41,Male,56,Male,Arrested
+736,08-03-2022,14:09,Homicide,Suburb,37.543935,-103.089758,Tuesday,Snowy,4.3,47,Female,10,Male,Unsolved
+737,29-10-2023,10:53,Vandalism,Suburb,35.463434,-87.294306,Sunday,Rainy,10.2,16,Female,56,Female,Unsolved
+738,28-04-2023,10:43,Vandalism,Downtown,39.622525,-106.385322,Friday,Snowy,27.3,22,Male,33,Male,Under Investigation
+739,12-10-2023,02:39,Vandalism,Mall,37.079384,-101.287324,Thursday,Clear,1.6,41,Male,48,Male,Unsolved
+740,13-03-2023,10:23,Homicide,Residential Area,39.261664,-82.603781,Monday,Snowy,3.7,51,Male,71,Male,Unsolved
+741,05-02-2023,02:18,Theft,Residential Area,34.958367,-89.554858,Sunday,Snowy,20.5,25,Female,16,Female,Unsolved
+742,10-12-2023,22:46,Fraud,Residential Area,34.690863,-78.164595,Sunday,Foggy,2.2,26,Male,73,Male,Arrested
+743,13-10-2023,14:46,Theft,Highway,37.703609,-104.842651,Friday,Cloudy,10.9,55,Male,44,Male,Under Investigation
+744,24-09-2022,21:05,Fraud,Downtown,37.055058,-79.961258,Saturday,Clear,9.8,21,Female,65,Female,Arrested
+745,03-05-2022,05:54,Fraud,Downtown,39.329204,-102.87585,Tuesday,Cloudy,18.6,24,Female,74,Female,Arrested
+746,17-06-2023,05:51,Theft,Downtown,39.191956,-100.678958,Saturday,Snowy,-2.8,39,Female,77,Female,Arrested
+747,05-05-2022,13:42,Robbery,Residential Area,34.904685,-91.0604,Thursday,Snowy,0.7,59,Male,31,Male,Unsolved
+748,28-12-2023,05:34,Vandalism,Suburb,36.645592,-101.155449,Thursday,Foggy,5.6,38,Female,48,Female,Arrested
+749,15-08-2023,11:24,Homicide,Park,34.649834,-114.351118,Tuesday,Snowy,12.3,24,Male,40,Male,Arrested
+750,08-10-2022,02:13,Drug Offense,Industrial Zone,35.65628,-117.692247,Saturday,Foggy,15.5,29,Male,65,Male,Arrested
+751,09-03-2022,11:35,Fraud,Suburb,39.1025,-101.525298,Wednesday,Rainy,30.2,16,Male,61,Male,Arrested
+752,08-07-2022,12:58,Drug Offense,Mall,38.531345,-87.934216,Friday,Cloudy,13.8,31,Female,74,Female,Under Investigation
+753,20-11-2022,07:13,Homicide,Industrial Zone,37.375586,-77.218622,Sunday,Cloudy,30.6,28,Female,38,Female,Arrested
+754,26-10-2023,23:00,Fraud,Downtown,38.244,-88.970318,Thursday,Snowy,4,58,Female,74,Male,Under Investigation
+755,24-06-2022,15:56,Fraud,Highway,36.696097,-98.296071,Friday,Foggy,3.9,21,Female,41,Female,Arrested
+756,01-02-2023,13:42,Fraud,Residential Area,38.987774,-99.663632,Wednesday,Snowy,-0.4,27,Female,55,Female,Unsolved
+757,23-07-2022,22:55,Fraud,Industrial Zone,39.584152,-83.933105,Saturday,Rainy,21.1,25,Female,72,Female,Unsolved
+758,18-07-2023,11:50,Assault,Highway,36.041258,-116.524376,Tuesday,Snowy,-4.4,60,Male,13,Female,Unsolved
+759,06-12-2023,11:53,Burglary,Suburb,34.015339,-108.324474,Wednesday,Rainy,3.7,45,Female,61,Female,Under Investigation
+760,22-07-2022,01:51,Homicide,Mall,35.52298,-91.984621,Friday,Rainy,24.8,27,Male,43,Male,Arrested
+761,10-02-2023,07:17,Robbery,Highway,36.195088,-116.146872,Friday,Cloudy,24.3,36,Female,66,Male,Under Investigation
+762,05-01-2022,19:04,Homicide,Suburb,39.904735,-108.989228,Wednesday,Rainy,32.9,60,Male,65,Male,Unsolved
+763,16-10-2023,02:10,Drug Offense,Downtown,36.561402,-81.604319,Monday,Clear,8.7,45,Male,43,Male,Unsolved
+764,13-02-2023,15:10,Burglary,Industrial Zone,39.4291,-116.623878,Monday,Snowy,-2.6,50,Male,15,Male,Arrested
+765,07-01-2022,14:53,Fraud,Mall,36.092474,-100.586067,Friday,Snowy,-3.2,26,Female,52,Male,Unsolved
+766,21-08-2022,11:55,Robbery,Downtown,37.375605,-110.468443,Sunday,Snowy,25,37,Female,77,Male,Unsolved
+767,31-10-2022,10:57,Drug Offense,Suburb,35.484473,-97.252133,Monday,Snowy,26.7,32,Male,10,Male,Under Investigation
+768,30-11-2022,01:15,Robbery,Highway,38.717684,-76.589184,Wednesday,Rainy,32.4,59,Female,33,Female,Unsolved
+769,25-08-2022,17:49,Robbery,Mall,36.384714,-107.959448,Thursday,Rainy,15.9,34,Male,11,Male,Under Investigation
+770,27-01-2022,19:07,Robbery,Park,36.023791,-93.473491,Thursday,Clear,24,43,Male,21,Male,Unsolved
+771,17-08-2022,06:49,Robbery,Industrial Zone,37.849504,-79.958426,Wednesday,Cloudy,22.8,52,Male,16,Female,Arrested
+772,11-08-2022,15:12,Drug Offense,Suburb,39.641022,-75.695034,Thursday,Foggy,14.2,34,Female,43,Male,Unsolved
+773,19-04-2022,09:17,Robbery,Mall,38.389582,-89.457596,Tuesday,Rainy,32.6,18,Female,38,Female,Arrested
+774,15-07-2023,03:38,Homicide,Park,38.952315,-104.862518,Saturday,Snowy,30.4,46,Male,42,Female,Under Investigation
+775,14-01-2023,09:57,Drug Offense,Downtown,35.031807,-102.326489,Saturday,Rainy,1.7,35,Male,25,Female,Under Investigation
+776,04-06-2022,17:31,Robbery,Highway,38.127215,-92.656956,Saturday,Foggy,10.7,16,Male,42,Male,Under Investigation
+777,19-07-2023,15:13,Robbery,Highway,38.548834,-93.932932,Wednesday,Clear,30,49,Female,21,Male,Unsolved
+778,24-07-2023,10:14,Vandalism,Industrial Zone,34.214627,-88.56674,Monday,Snowy,-2.6,52,Male,76,Female,Unsolved
+779,12-12-2023,22:33,Robbery,Mall,37.624184,-92.73199,Tuesday,Snowy,1.8,44,Male,73,Male,Unsolved
+780,11-01-2022,05:43,Drug Offense,Downtown,39.629417,-106.280363,Tuesday,Clear,27.1,28,Male,33,Female,Under Investigation
+781,03-10-2022,04:05,Assault,Residential Area,38.029004,-108.929127,Monday,Foggy,30.6,37,Female,58,Male,Under Investigation
+782,29-09-2022,14:23,Assault,Highway,39.875409,-116.059241,Thursday,Clear,1.7,33,Male,54,Female,Arrested
+783,19-12-2022,05:58,Robbery,Highway,35.651698,-108.222351,Monday,Clear,30,56,Male,21,Male,Arrested
+784,23-11-2023,02:42,Theft,Downtown,38.813967,-102.318906,Thursday,Snowy,19.5,42,Female,20,Male,Unsolved
+785,08-02-2022,16:44,Robbery,Park,34.316802,-95.787129,Tuesday,Rainy,-3.1,48,Female,54,Female,Unsolved
+786,20-06-2023,06:29,Vandalism,Residential Area,39.344992,-104.420188,Tuesday,Snowy,29.1,33,Female,29,Female,Arrested
+787,12-04-2022,05:06,Homicide,Industrial Zone,39.966402,-95.582408,Tuesday,Clear,14.4,52,Male,15,Female,Unsolved
+788,02-03-2022,06:36,Assault,Suburb,35.520423,-115.720517,Wednesday,Foggy,1.2,40,Female,21,Female,Unsolved
+789,25-10-2022,13:17,Theft,Downtown,35.662363,-98.25239,Tuesday,Snowy,11.2,16,Female,33,Female,Unsolved
+790,18-04-2023,09:44,Vandalism,Park,37.597239,-115.801321,Tuesday,Clear,34.6,57,Male,21,Female,Arrested
+791,19-05-2023,20:33,Burglary,Mall,37.156195,-77.226611,Friday,Clear,-2.8,54,Female,66,Male,Under Investigation
+792,03-05-2022,08:02,Homicide,Mall,34.882617,-117.533795,Tuesday,Cloudy,20.9,56,Female,77,Male,Under Investigation
+793,18-05-2023,12:06,Burglary,Park,35.647249,-92.387405,Thursday,Rainy,8.4,38,Female,13,Female,Unsolved
+794,22-02-2023,12:15,Burglary,Highway,38.702047,-107.655581,Wednesday,Rainy,9.7,37,Male,27,Female,Arrested
+795,06-11-2023,22:10,Vandalism,Park,34.210372,-114.084376,Monday,Snowy,26.7,19,Female,23,Male,Arrested
+796,28-07-2023,21:37,Fraud,Industrial Zone,38.579061,-93.564837,Friday,Snowy,29.6,55,Male,31,Male,Under Investigation
+797,10-11-2022,16:15,Robbery,Park,35.591767,-104.618575,Thursday,Rainy,29.9,28,Male,68,Male,Arrested
+798,30-08-2023,11:26,Robbery,Downtown,37.569908,-88.261313,Wednesday,Clear,24.5,21,Female,55,Female,Arrested
+799,16-06-2023,07:10,Fraud,Residential Area,34.707718,-94.559844,Friday,Cloudy,33.4,23,Female,27,Male,Arrested
+800,16-02-2022,03:32,Fraud,Highway,38.988944,-112.782649,Wednesday,Snowy,1.5,16,Male,33,Female,Arrested
+801,09-11-2023,12:21,Assault,Mall,36.612586,-97.340084,Thursday,Cloudy,17.7,22,Male,67,Female,Unsolved
+802,24-10-2023,10:51,Homicide,Mall,35.488426,-79.613517,Tuesday,Snowy,23.4,58,Female,53,Female,Under Investigation
+803,21-06-2023,12:59,Homicide,Suburb,34.887611,-106.685891,Wednesday,Cloudy,9,24,Female,13,Female,Arrested
+804,24-07-2022,08:47,Burglary,Mall,37.177102,-100.078268,Sunday,Foggy,19.9,37,Male,15,Male,Arrested
+805,10-08-2023,01:05,Homicide,Park,38.052082,-105.707377,Thursday,Foggy,30.3,44,Male,23,Male,Under Investigation
+806,12-11-2022,19:59,Vandalism,Industrial Zone,35.671478,-76.77376,Saturday,Clear,1.3,54,Female,22,Male,Unsolved
+807,05-02-2023,00:00,Assault,Downtown,37.760059,-115.638901,Sunday,Clear,30.8,48,Female,56,Male,Unsolved
+808,07-03-2022,02:38,Theft,Industrial Zone,34.545384,-115.314118,Monday,Cloudy,-4.8,20,Male,50,Male,Unsolved
+809,24-09-2023,02:14,Burglary,Park,39.943237,-117.654108,Sunday,Snowy,18.3,42,Male,24,Female,Under Investigation
+810,16-02-2023,00:05,Assault,Park,36.32097,-83.458007,Thursday,Foggy,14.1,18,Male,37,Male,Unsolved
+811,16-12-2022,00:28,Burglary,Industrial Zone,37.141473,-77.655587,Friday,Clear,31.1,27,Female,63,Female,Arrested
+812,18-04-2023,01:42,Robbery,Industrial Zone,39.560449,-76.927661,Tuesday,Cloudy,31.3,27,Female,26,Male,Unsolved
+813,01-09-2023,10:57,Drug Offense,Park,36.655911,-102.847696,Friday,Clear,-4.7,54,Female,46,Male,Under Investigation
+814,02-06-2023,05:47,Robbery,Industrial Zone,37.066121,-86.835201,Friday,Clear,25.9,21,Female,36,Male,Arrested
+815,19-11-2023,06:10,Homicide,Mall,37.684903,-104.084356,Sunday,Foggy,31.2,55,Female,31,Female,Arrested
+816,21-09-2023,08:05,Homicide,Suburb,39.397328,-78.652117,Thursday,Snowy,-4.9,37,Female,58,Female,Unsolved
+817,26-02-2022,07:44,Drug Offense,Residential Area,37.24073,-75.170388,Saturday,Cloudy,-3.1,60,Female,51,Male,Arrested
+818,21-07-2022,16:44,Homicide,Mall,36.491362,-87.008901,Thursday,Rainy,27.9,22,Male,16,Male,Under Investigation
+819,04-02-2022,10:09,Burglary,Downtown,36.430389,-91.921297,Friday,Clear,-0.4,21,Female,42,Female,Under Investigation
+820,24-09-2023,18:48,Vandalism,Downtown,36.272685,-99.989973,Sunday,Rainy,7.6,35,Male,78,Female,Arrested
+821,08-01-2022,19:09,Fraud,Highway,37.675242,-109.644561,Saturday,Snowy,12.9,53,Female,36,Male,Arrested
+822,22-10-2023,19:39,Theft,Suburb,37.398656,-116.703522,Sunday,Clear,5.9,50,Female,51,Male,Under Investigation
+823,07-03-2022,02:32,Vandalism,Suburb,39.768594,-99.462661,Monday,Rainy,26,57,Male,32,Female,Arrested
+824,19-01-2022,19:31,Vandalism,Mall,34.76331,-105.747976,Wednesday,Snowy,18.2,37,Female,27,Male,Under Investigation
+825,31-12-2023,17:21,Theft,Residential Area,39.631598,-115.883203,Sunday,Foggy,17.7,42,Male,15,Male,Under Investigation
+826,25-11-2022,01:05,Robbery,Park,36.902176,-102.437301,Friday,Cloudy,24.5,52,Female,40,Female,Arrested
+827,26-06-2023,14:31,Fraud,Residential Area,37.996858,-112.593974,Monday,Snowy,29.1,53,Female,59,Male,Under Investigation
+828,02-12-2022,21:39,Burglary,Downtown,35.459697,-100.204324,Friday,Rainy,32.8,29,Male,43,Female,Arrested
+829,15-03-2023,21:42,Assault,Mall,38.280271,-95.758405,Wednesday,Snowy,14,23,Male,40,Female,Under Investigation
+830,15-03-2022,00:55,Vandalism,Downtown,36.798812,-107.421563,Tuesday,Clear,-2.3,54,Male,74,Male,Unsolved
+831,05-02-2023,05:57,Burglary,Park,34.908908,-99.436512,Sunday,Foggy,35,51,Female,34,Female,Under Investigation
+832,01-06-2022,21:50,Drug Offense,Residential Area,37.424848,-90.603542,Wednesday,Foggy,-1.6,29,Male,52,Male,Unsolved
+833,04-08-2023,22:06,Theft,Park,34.111284,-78.687565,Friday,Clear,7.8,28,Male,23,Female,Unsolved
+834,15-07-2023,18:41,Burglary,Downtown,34.915558,-101.432689,Saturday,Cloudy,12.3,17,Female,30,Female,Under Investigation
+835,07-05-2023,14:22,Vandalism,Residential Area,39.499731,-115.365008,Sunday,Snowy,5.1,24,Female,19,Male,Arrested
+836,04-10-2022,01:05,Burglary,Mall,36.082998,-77.861895,Tuesday,Foggy,12.8,29,Female,58,Female,Under Investigation
+837,21-11-2023,05:18,Burglary,Downtown,39.445836,-77.799883,Tuesday,Foggy,9.9,33,Female,78,Male,Under Investigation
+838,27-06-2022,15:07,Theft,Downtown,39.62748,-81.061746,Monday,Snowy,7.2,44,Male,17,Male,Arrested
+839,16-03-2023,10:39,Theft,Industrial Zone,39.843332,-88.511746,Thursday,Cloudy,27.7,56,Female,13,Male,Arrested
+840,18-08-2022,00:56,Robbery,Residential Area,34.555591,-90.618354,Thursday,Rainy,31.7,37,Male,47,Male,Under Investigation
+841,12-07-2022,05:59,Burglary,Park,37.683862,-97.45726,Tuesday,Clear,15.7,19,Female,79,Female,Under Investigation
+842,18-03-2023,17:46,Homicide,Suburb,35.911931,-99.107093,Saturday,Rainy,4,21,Male,76,Female,Unsolved
+843,08-07-2022,01:03,Robbery,Suburb,37.449275,-98.423902,Friday,Cloudy,16.9,26,Male,72,Male,Under Investigation
+844,12-01-2022,13:35,Assault,Downtown,38.822079,-88.044314,Wednesday,Snowy,12.2,56,Female,69,Male,Under Investigation
+845,19-02-2023,09:49,Robbery,Suburb,36.169802,-90.334387,Sunday,Snowy,2.3,45,Female,50,Female,Arrested
+846,08-11-2023,09:48,Robbery,Industrial Zone,38.284864,-87.877239,Wednesday,Snowy,1.5,36,Female,65,Male,Unsolved
+847,21-05-2023,17:13,Assault,Residential Area,38.171139,-89.567933,Sunday,Foggy,17.9,32,Male,31,Female,Arrested
+848,03-04-2023,11:28,Burglary,Mall,38.688716,-115.515683,Monday,Foggy,29.4,34,Male,32,Male,Unsolved
+849,29-01-2023,07:08,Robbery,Downtown,39.644587,-86.121918,Sunday,Rainy,23.3,28,Female,75,Male,Arrested
+850,16-08-2023,11:31,Robbery,Downtown,36.998143,-100.707502,Wednesday,Foggy,31.7,32,Male,41,Male,Unsolved
+851,14-11-2022,20:33,Assault,Residential Area,36.698132,-79.199069,Monday,Rainy,34.1,18,Female,64,Male,Arrested
+852,27-12-2023,19:11,Vandalism,Mall,38.055172,-78.769462,Wednesday,Snowy,-3.4,45,Female,70,Female,Unsolved
+853,29-09-2022,10:03,Assault,Residential Area,37.661093,-99.883957,Thursday,Snowy,13.9,42,Female,60,Male,Unsolved
+854,19-12-2023,06:30,Homicide,Downtown,35.17976,-107.996116,Tuesday,Clear,29.9,58,Male,57,Female,Unsolved
+855,14-06-2022,01:25,Drug Offense,Highway,37.525814,-81.825947,Tuesday,Cloudy,23,45,Male,48,Male,Unsolved
+856,08-09-2023,05:52,Vandalism,Park,38.023812,-84.160641,Friday,Foggy,24.1,51,Male,72,Male,Unsolved
+857,03-10-2023,12:15,Fraud,Residential Area,35.030482,-117.613137,Tuesday,Clear,22.7,60,Female,29,Male,Unsolved
+858,15-12-2022,02:16,Fraud,Mall,34.852681,-102.075981,Thursday,Snowy,10,22,Male,53,Male,Unsolved
+859,07-08-2023,18:10,Vandalism,Highway,34.555454,-96.977728,Monday,Foggy,29.3,58,Female,67,Female,Unsolved
+860,04-04-2022,10:08,Theft,Park,35.801138,-107.216566,Monday,Foggy,-1.7,46,Female,32,Male,Unsolved
+861,10-03-2022,22:41,Assault,Residential Area,39.08806,-112.237343,Thursday,Foggy,22.7,44,Female,49,Female,Unsolved
+862,06-01-2023,13:54,Robbery,Residential Area,34.677278,-83.050534,Friday,Snowy,-1.5,30,Female,24,Female,Arrested
+863,28-03-2022,07:07,Fraud,Park,36.378297,-103.209444,Monday,Clear,-3.9,52,Male,46,Female,Arrested
+864,23-08-2022,20:54,Robbery,Industrial Zone,39.976989,-92.719536,Tuesday,Foggy,6.3,40,Male,42,Male,Under Investigation
+865,24-09-2022,12:33,Theft,Suburb,38.2481,-87.736104,Saturday,Snowy,5.7,59,Male,70,Female,Unsolved
+866,29-11-2022,21:40,Vandalism,Residential Area,38.563273,-93.11308,Tuesday,Snowy,26.1,47,Male,45,Female,Arrested
+867,19-08-2023,06:25,Theft,Residential Area,35.312491,-115.536286,Saturday,Cloudy,33.7,38,Female,34,Male,Under Investigation
+868,18-01-2023,17:40,Theft,Highway,36.254554,-113.231107,Wednesday,Clear,27.5,33,Female,59,Male,Unsolved
+869,30-04-2023,21:46,Drug Offense,Downtown,37.771783,-80.422216,Sunday,Cloudy,31.5,22,Male,54,Female,Arrested
+870,12-12-2022,04:38,Theft,Downtown,35.693713,-116.619146,Monday,Foggy,28.6,53,Female,20,Female,Arrested
+871,24-10-2022,14:58,Theft,Downtown,34.94083,-92.803072,Monday,Snowy,1.2,37,Male,19,Male,Under Investigation
+872,05-02-2023,13:13,Assault,Downtown,36.117165,-115.769039,Sunday,Clear,28.8,45,Male,53,Female,Unsolved
+873,29-04-2022,10:58,Vandalism,Highway,35.708222,-92.788624,Friday,Clear,30.5,39,Male,76,Male,Unsolved
+874,24-04-2023,09:32,Fraud,Industrial Zone,34.127746,-92.565185,Monday,Foggy,-4.9,60,Male,12,Male,Arrested
+875,08-06-2022,20:42,Drug Offense,Downtown,35.581556,-76.025625,Wednesday,Cloudy,-4.1,59,Male,12,Female,Arrested
+876,12-05-2022,22:58,Assault,Highway,39.941491,-100.045915,Thursday,Cloudy,23.6,29,Male,38,Male,Unsolved
+877,02-10-2023,23:02,Fraud,Mall,34.413153,-88.573578,Monday,Snowy,9.2,32,Male,54,Female,Unsolved
+878,07-03-2022,14:56,Drug Offense,Mall,38.862053,-103.624112,Monday,Foggy,4.1,50,Male,56,Male,Unsolved
+879,12-05-2022,06:50,Theft,Suburb,36.928111,-93.481407,Thursday,Snowy,32.5,19,Male,27,Female,Under Investigation
+880,01-11-2022,03:19,Homicide,Downtown,38.455829,-81.676483,Tuesday,Cloudy,-2.3,51,Female,62,Female,Under Investigation
+881,06-06-2022,00:09,Vandalism,Industrial Zone,34.764481,-104.997413,Monday,Rainy,2.6,55,Female,20,Male,Arrested
+882,16-08-2022,15:25,Homicide,Highway,35.489553,-109.023742,Tuesday,Clear,-3.9,44,Male,38,Male,Under Investigation
+883,21-04-2023,11:37,Burglary,Downtown,36.237271,-76.650986,Friday,Snowy,7.1,17,Male,49,Female,Under Investigation
+884,25-06-2022,07:22,Burglary,Industrial Zone,39.862908,-98.14301,Saturday,Snowy,22.7,44,Female,50,Female,Under Investigation
+885,14-02-2023,16:34,Theft,Park,37.142459,-107.357205,Tuesday,Foggy,27.8,48,Female,25,Female,Under Investigation
+886,19-12-2022,13:12,Homicide,Highway,37.265512,-88.992675,Monday,Snowy,5.6,46,Female,31,Male,Under Investigation
+887,29-12-2023,20:25,Theft,Industrial Zone,37.872321,-117.503516,Friday,Cloudy,25.3,38,Male,78,Male,Unsolved
+888,18-02-2023,20:04,Robbery,Downtown,36.801487,-88.869026,Saturday,Cloudy,5.2,42,Female,58,Male,Unsolved
+889,12-12-2022,17:14,Assault,Park,38.544091,-112.831223,Monday,Foggy,15.9,37,Male,77,Male,Unsolved
+890,27-06-2022,19:52,Homicide,Park,39.631259,-100.693248,Monday,Rainy,1.8,36,Female,58,Female,Unsolved
+891,25-08-2022,19:23,Vandalism,Residential Area,37.205364,-88.287279,Thursday,Snowy,20.4,56,Male,17,Female,Unsolved
+892,16-03-2022,01:47,Homicide,Residential Area,39.658386,-94.498155,Wednesday,Snowy,-4.2,60,Male,20,Female,Arrested
+893,04-01-2022,04:33,Drug Offense,Mall,37.46536,-76.821764,Tuesday,Foggy,-0.1,16,Male,46,Male,Arrested
+894,14-11-2022,20:44,Fraud,Mall,36.069921,-90.030182,Monday,Foggy,34.6,24,Female,79,Male,Arrested
+895,11-11-2022,05:18,Vandalism,Downtown,35.251891,-95.814726,Friday,Cloudy,8.2,52,Male,13,Female,Under Investigation
+896,31-08-2022,21:27,Robbery,Suburb,39.783937,-83.412573,Wednesday,Foggy,15,29,Female,24,Male,Unsolved
+897,18-07-2023,23:55,Homicide,Park,36.579685,-107.466077,Tuesday,Cloudy,4.1,22,Female,65,Female,Unsolved
+898,06-04-2023,13:21,Vandalism,Park,36.293423,-117.136475,Thursday,Rainy,6.3,49,Female,52,Male,Unsolved
+899,14-02-2023,01:44,Drug Offense,Park,34.414322,-97.397801,Tuesday,Rainy,16.2,53,Female,26,Female,Under Investigation
+900,23-05-2022,02:40,Fraud,Park,35.661999,-104.286323,Monday,Clear,34.5,17,Male,71,Female,Arrested
+901,03-06-2022,03:00,Fraud,Residential Area,37.213677,-82.568108,Friday,Cloudy,9.5,24,Female,36,Male,Arrested
+902,13-08-2022,04:48,Drug Offense,Industrial Zone,34.058113,-95.665317,Saturday,Rainy,20.6,40,Female,23,Female,Arrested
+903,11-05-2023,06:08,Robbery,Downtown,34.586598,-96.927231,Thursday,Snowy,22.4,45,Male,19,Female,Arrested
+904,01-02-2022,16:15,Theft,Mall,39.549008,-88.450074,Tuesday,Cloudy,15.3,35,Female,51,Male,Under Investigation
+905,19-03-2023,16:32,Homicide,Industrial Zone,34.46792,-117.555286,Sunday,Snowy,24.1,41,Male,55,Female,Under Investigation
+906,11-08-2022,14:22,Theft,Park,34.829157,-90.007041,Thursday,Foggy,4,57,Female,61,Male,Arrested
+907,06-03-2022,14:49,Homicide,Industrial Zone,38.757454,-115.889561,Sunday,Snowy,25.8,48,Female,64,Male,Arrested
+908,29-03-2023,08:55,Theft,Park,36.494793,-100.63592,Wednesday,Rainy,14.2,31,Male,47,Male,Under Investigation
+909,13-03-2023,07:55,Theft,Suburb,39.681271,-102.375381,Monday,Snowy,12.2,47,Male,78,Female,Arrested
+910,14-10-2022,03:16,Homicide,Downtown,35.140852,-76.835732,Friday,Rainy,16,50,Female,46,Male,Unsolved
+911,29-10-2023,11:41,Drug Offense,Mall,35.98055,-89.650134,Sunday,Clear,5.1,57,Female,63,Male,Under Investigation
+912,21-05-2022,01:51,Homicide,Downtown,39.391211,-112.678912,Saturday,Snowy,9.6,23,Female,21,Male,Under Investigation
+913,21-05-2022,07:09,Vandalism,Industrial Zone,36.844705,-116.814487,Saturday,Cloudy,13.1,55,Male,67,Male,Unsolved
+914,06-12-2023,02:28,Homicide,Industrial Zone,38.480071,-98.869624,Wednesday,Rainy,23.9,40,Male,10,Female,Arrested
+915,01-10-2023,19:12,Drug Offense,Residential Area,36.414587,-114.589382,Sunday,Clear,-1.9,49,Male,53,Male,Unsolved
+916,22-03-2023,11:48,Vandalism,Highway,37.121195,-75.856202,Wednesday,Cloudy,17.9,28,Female,73,Male,Unsolved
+917,02-08-2022,11:07,Theft,Suburb,34.546809,-85.297424,Tuesday,Clear,-3.4,51,Male,21,Male,Unsolved
+918,07-10-2022,01:35,Assault,Mall,35.422814,-100.729681,Friday,Rainy,26.2,27,Female,80,Female,Arrested
+919,05-05-2022,11:23,Theft,Park,39.398801,-75.685929,Thursday,Snowy,6.1,59,Male,76,Female,Arrested
+920,26-01-2022,15:23,Fraud,Residential Area,37.409819,-86.705628,Wednesday,Rainy,7.6,34,Female,48,Male,Unsolved
+921,14-07-2022,10:19,Theft,Downtown,36.837081,-78.140916,Thursday,Clear,18.1,32,Male,14,Male,Under Investigation
+922,21-08-2022,06:16,Robbery,Park,34.768363,-96.261064,Sunday,Cloudy,24.7,45,Male,48,Female,Under Investigation
+923,01-11-2023,12:13,Theft,Highway,37.65362,-112.298006,Wednesday,Rainy,3.7,55,Female,69,Female,Unsolved
+924,07-02-2022,15:54,Homicide,Suburb,39.468661,-88.29265,Monday,Clear,18.6,55,Male,33,Male,Arrested
+925,18-05-2023,02:43,Homicide,Park,38.586422,-77.407683,Thursday,Cloudy,33.6,31,Female,69,Male,Arrested
+926,22-12-2022,19:35,Assault,Residential Area,35.564173,-102.53175,Thursday,Clear,20.4,54,Male,38,Female,Under Investigation
+927,14-02-2022,01:35,Burglary,Suburb,38.976272,-105.680126,Monday,Snowy,-1.8,26,Male,54,Female,Arrested
+928,31-01-2022,19:13,Fraud,Industrial Zone,37.002017,-99.528482,Monday,Snowy,15.8,29,Male,21,Female,Under Investigation
+929,03-10-2023,10:58,Robbery,Park,38.578384,-77.79184,Tuesday,Rainy,0.8,46,Male,48,Female,Unsolved
+930,22-05-2023,12:10,Robbery,Mall,36.148288,-110.597667,Monday,Cloudy,2.4,53,Female,22,Male,Unsolved
+931,24-02-2022,13:08,Burglary,Residential Area,36.748214,-98.875823,Thursday,Foggy,7.3,41,Female,62,Male,Under Investigation
+932,17-06-2023,05:12,Vandalism,Suburb,34.447408,-107.405593,Saturday,Rainy,12.9,50,Female,60,Male,Arrested
+933,17-09-2023,16:48,Robbery,Mall,39.540333,-105.43695,Sunday,Clear,15.7,52,Male,48,Female,Unsolved
+934,19-07-2022,11:24,Vandalism,Suburb,39.786278,-103.298537,Tuesday,Cloudy,20.9,32,Male,40,Female,Arrested
+935,12-04-2023,01:27,Fraud,Park,36.856779,-100.417781,Wednesday,Snowy,23.6,59,Male,17,Male,Under Investigation
+936,05-05-2023,00:33,Robbery,Highway,37.489457,-103.661819,Friday,Snowy,6.3,18,Female,11,Female,Unsolved
+937,24-08-2022,15:33,Theft,Highway,37.783232,-101.373946,Wednesday,Snowy,18.1,34,Male,33,Male,Unsolved
+938,13-09-2023,06:55,Burglary,Suburb,38.080933,-75.509955,Wednesday,Cloudy,-4.2,45,Female,31,Male,Unsolved
+939,01-04-2022,07:30,Vandalism,Downtown,39.858002,-91.571038,Friday,Clear,34.1,47,Male,60,Male,Unsolved
+940,04-11-2023,20:20,Theft,Park,35.889582,-104.744511,Saturday,Snowy,18.1,47,Male,16,Male,Under Investigation
+941,26-12-2023,00:22,Homicide,Highway,39.82543,-97.321615,Tuesday,Foggy,0.9,25,Female,56,Female,Arrested
+942,23-03-2022,16:48,Drug Offense,Park,39.569381,-84.156217,Wednesday,Foggy,3.7,49,Male,27,Female,Unsolved
+943,16-02-2022,19:12,Fraud,Park,39.424809,-75.824193,Wednesday,Foggy,-2.3,37,Female,27,Male,Arrested
+944,27-12-2022,19:48,Drug Offense,Park,37.64189,-100.181582,Tuesday,Rainy,3.9,16,Male,54,Male,Arrested
+945,03-02-2022,00:20,Drug Offense,Park,34.060155,-111.667056,Thursday,Cloudy,33.6,48,Male,63,Female,Unsolved
+946,26-01-2022,03:32,Theft,Suburb,38.032559,-112.346664,Wednesday,Foggy,29.8,20,Female,58,Female,Under Investigation
+947,15-03-2022,01:58,Fraud,Downtown,34.294337,-91.279303,Tuesday,Foggy,1.1,50,Male,54,Male,Under Investigation
+948,28-06-2023,08:29,Robbery,Industrial Zone,37.046369,-113.457261,Wednesday,Foggy,11.5,44,Female,52,Male,Under Investigation
+949,08-11-2022,23:36,Assault,Suburb,34.889514,-85.548264,Tuesday,Snowy,24.7,54,Male,15,Female,Unsolved
+950,20-06-2022,17:03,Burglary,Highway,39.846043,-109.94574,Monday,Cloudy,5.3,26,Female,54,Male,Arrested
+951,30-01-2023,03:17,Homicide,Downtown,35.132828,-97.505728,Monday,Clear,-0.2,30,Female,80,Female,Arrested
+952,05-09-2022,12:45,Assault,Suburb,34.135678,-95.574841,Monday,Snowy,29.4,53,Female,32,Male,Under Investigation
+953,12-04-2022,02:43,Homicide,Residential Area,35.406259,-109.262518,Tuesday,Rainy,7.5,23,Male,13,Female,Under Investigation
+954,13-06-2023,12:13,Robbery,Downtown,37.975588,-80.729573,Tuesday,Clear,30.5,19,Male,37,Male,Under Investigation
+955,19-03-2022,09:06,Drug Offense,Mall,37.131842,-95.963677,Saturday,Foggy,4.3,26,Female,12,Male,Arrested
+956,13-07-2023,04:19,Theft,Mall,37.560451,-100.895914,Thursday,Cloudy,26.1,29,Male,35,Female,Unsolved
+957,31-07-2022,10:27,Assault,Park,39.765877,-78.672561,Sunday,Foggy,20.7,29,Male,74,Female,Under Investigation
+958,09-06-2023,05:54,Assault,Suburb,38.891228,-112.712786,Friday,Clear,25.6,24,Male,73,Female,Under Investigation
+959,03-02-2022,08:06,Burglary,Downtown,39.465277,-104.789577,Thursday,Rainy,21,49,Female,59,Female,Unsolved
+960,14-01-2022,20:22,Burglary,Downtown,39.81796,-91.965539,Friday,Rainy,7.4,20,Female,58,Female,Arrested
+961,25-03-2023,05:01,Drug Offense,Downtown,36.499158,-113.813704,Saturday,Clear,34,31,Male,66,Male,Under Investigation
+962,23-08-2023,17:51,Theft,Mall,38.37323,-85.638097,Wednesday,Snowy,19.6,52,Male,63,Female,Unsolved
+963,02-01-2023,19:09,Vandalism,Mall,36.125243,-84.401124,Monday,Clear,-2.7,50,Female,73,Male,Unsolved
+964,09-08-2022,20:22,Robbery,Mall,39.326843,-98.619627,Tuesday,Snowy,8.2,23,Female,78,Male,Arrested
+965,20-05-2023,09:13,Burglary,Industrial Zone,35.586073,-106.021749,Saturday,Foggy,5.7,55,Male,10,Female,Under Investigation
+966,19-09-2023,05:37,Burglary,Residential Area,36.670807,-89.77236,Tuesday,Clear,18.5,22,Male,69,Male,Unsolved
+967,14-09-2022,19:08,Homicide,Downtown,38.446437,-78.851064,Wednesday,Snowy,24,45,Male,73,Female,Under Investigation
+968,02-11-2023,03:15,Vandalism,Suburb,38.661546,-94.716041,Thursday,Snowy,16.9,51,Female,31,Female,Under Investigation
+969,08-01-2023,02:18,Vandalism,Industrial Zone,36.605336,-77.906256,Sunday,Clear,9.5,58,Female,80,Female,Under Investigation
+970,05-02-2023,00:43,Vandalism,Downtown,34.012629,-81.97018,Sunday,Cloudy,17.9,54,Male,19,Male,Unsolved
+971,05-09-2023,15:21,Burglary,Residential Area,39.038155,-107.148229,Tuesday,Cloudy,-4.5,31,Female,55,Female,Arrested
+972,29-01-2022,04:13,Vandalism,Mall,36.316804,-114.56847,Saturday,Rainy,30.2,32,Male,47,Male,Unsolved
+973,07-08-2022,01:25,Assault,Highway,37.04858,-90.82688,Sunday,Clear,25.4,19,Female,47,Female,Arrested
+974,06-10-2022,07:05,Drug Offense,Park,36.333787,-110.942701,Thursday,Rainy,3.7,19,Male,43,Male,Unsolved
+975,14-05-2022,21:42,Theft,Industrial Zone,35.434095,-86.292437,Saturday,Cloudy,18.9,33,Male,60,Female,Arrested
+976,24-07-2022,19:38,Theft,Industrial Zone,39.620717,-117.002783,Sunday,Rainy,20.9,52,Male,33,Female,Under Investigation
+977,03-09-2022,15:18,Vandalism,Industrial Zone,36.823332,-111.010375,Saturday,Snowy,24,40,Female,30,Male,Unsolved
+978,16-06-2022,01:18,Drug Offense,Residential Area,34.566967,-102.246979,Thursday,Rainy,-0.5,42,Male,38,Female,Arrested
+979,01-09-2023,13:42,Fraud,Highway,37.931074,-101.290468,Friday,Rainy,11.3,54,Male,19,Female,Unsolved
+980,02-07-2022,13:35,Fraud,Mall,36.570266,-93.029512,Saturday,Foggy,2.6,26,Female,32,Male,Arrested
+981,26-09-2022,12:38,Assault,Highway,39.670516,-107.225909,Monday,Foggy,14.9,30,Female,51,Female,Arrested
+982,27-02-2022,14:17,Assault,Residential Area,35.889555,-110.176133,Sunday,Foggy,29.8,56,Female,48,Female,Unsolved
+983,27-06-2023,15:14,Burglary,Residential Area,35.79558,-86.060541,Tuesday,Clear,33.4,43,Female,23,Female,Arrested
+984,10-07-2022,09:54,Theft,Downtown,39.535654,-93.806413,Sunday,Cloudy,-4.7,37,Female,76,Female,Arrested
+985,08-09-2023,07:48,Fraud,Industrial Zone,35.898241,-113.428613,Friday,Rainy,16.4,36,Male,20,Male,Arrested
+986,24-10-2023,05:28,Theft,Downtown,38.248174,-97.938037,Tuesday,Cloudy,11.5,42,Male,19,Male,Under Investigation
+987,11-01-2023,08:27,Assault,Suburb,38.209765,-94.768211,Wednesday,Rainy,27.4,22,Male,31,Male,Arrested
+988,06-09-2022,19:15,Theft,Downtown,35.35308,-87.718304,Tuesday,Clear,7.3,46,Male,49,Female,Arrested
+989,20-06-2022,17:39,Burglary,Residential Area,37.187466,-89.714478,Monday,Clear,33.6,39,Male,12,Male,Unsolved
+990,25-12-2023,19:22,Burglary,Downtown,34.543467,-102.26309,Monday,Clear,11.9,49,Female,76,Male,Arrested
+991,16-05-2022,16:48,Assault,Suburb,36.320462,-82.575318,Monday,Cloudy,23,23,Female,11,Female,Under Investigation
+992,28-01-2023,20:14,Vandalism,Industrial Zone,34.108404,-100.00821,Saturday,Foggy,10.3,52,Female,31,Female,Unsolved
+993,06-02-2023,16:27,Assault,Highway,39.26841,-75.717811,Monday,Rainy,31.9,26,Female,56,Male,Arrested
+994,24-10-2022,13:53,Robbery,Downtown,38.885876,-106.640237,Monday,Snowy,13,55,Female,45,Male,Unsolved
+995,07-05-2022,03:28,Vandalism,Residential Area,37.341877,-94.76868,Saturday,Clear,-1.2,47,Female,49,Male,Arrested
+996,27-01-2023,15:10,Burglary,Mall,38.519653,-90.505841,Friday,Clear,1.8,48,Female,10,Female,Unsolved
+997,02-10-2022,02:39,Fraud,Park,39.85184,-112.052447,Sunday,Cloudy,17.6,55,Female,53,Female,Unsolved
+998,13-10-2022,03:19,Vandalism,Suburb,35.049949,-108.322064,Thursday,Rainy,20.4,32,Male,74,Male,Unsolved
+999,26-12-2022,18:36,Burglary,Suburb,39.766598,-93.59739,Monday,Snowy,12.6,48,Male,79,Female,Under Investigation
+1000,13-04-2022,19:53,Robbery,Industrial Zone,36.596927,-94.703955,Wednesday,Clear,18,44,Female,47,Male,Unsolved
